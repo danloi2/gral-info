@@ -22,5 +22,6 @@ Thumbs.db
 # Official reference documents (kept locally, not published)
 /docs/reference/
 
-# Local Claude Code / editor helpers
-/.claude/
+# Local Claude Code helpers (launch.json, settings); project skills are shared
+/.claude/*
+!/.claude/skills/
