@@ -1,0 +1,31 @@
+<!-- ======================================================================= -->
+<!-- FRONT MATTER: ESKERRAK (ACKNOWLEDGEMENTS)                              -->
+<!-- PDF: title via #prelim-heading. HTML/DOCX: the level-2 heading below.   -->
+<!-- ======================================================================= -->
+
+```{=typst}
+#prelim-heading("Eskerrak")
+```
+
+::: {.content-visible unless-format="typst"}
+## Eskerrak {.prelim}
+:::
+
+::: {.callout-note}
+## Edukia: Eskerrak
+
+Lan honetan lagundu duten pertsona, erakunde edo kolektiboei eskerrak emateko atala.
+
+**Luzera orientagarria:** % 1 baino gutxiago.
+
+**Aditz-denborak (APA 7):** Oraina edo iragana.
+
+**Adibideak:**
+
+- Eskerrak eman nahi dizkiot nire tutoreari emandako orientazioagatik.
+- Prozesu osoan zehar lagungarri izan zen.
+
+**Aipu bibliografikoak:** Ez.
+:::
+
+{{< lipsum 1-2 >}}

@@ -1,0 +1,117 @@
+# ONDORIOAK {#sec-ondorioak}
+
+::: {.callout-note}
+## Edukia: Ondorioak
+
+Atal honetan ikerketaren sintesi orokorra egiten da. Aurkikuntza nagusiak laburbiltzen dira, hasieran planteatutako helburuak eta ikerketa-galderak berrikusten dira, eta ikerketaren ekarpen nagusiak azpimarratzen dira. Ondorioek lan osoaren itxiera koherentea eskaini behar dute, emaitzak eta eztabaidan garatutako ideiak integratuz. Ez da informazio berririk aurkeztu behar, ezta literaturaren berrikuspen berririk egin ere.
+
+**Luzera orientagarria:** %5-10 (%10).
+
+**Aditz-denborak (APA 7):** Oraina.
+
+**Adibidea:** Ikerketa honek erakusten du irakasle hasiberrien integrazio profesionalean laguntza sozialak eta prestakuntza praktikoak zeregin garrantzitsua dutela.
+
+**Aipu bibliografikoak:** EZ.
+:::
+
+::: {.callout-note}
+## Ondorioen antolaketa
+
+Ondorioen atalak ikerketaren ekarpen nagusiak modu argi eta sintetikoan aurkeztu behar ditu. Irakurleak atal hau irakurrita ulertu behar du zer aurkitu den, zer ikasi den eta zein izan den ikerketaren balio nagusia.
+
+Horretarako, komeni da ondorioak hiru azpiataletan antolatzea:
+
+- **Sintesia edo ideia nagusiak:** ikerketaren aurkikuntza eta ekarpen nagusiak laburbiltzea.
+- **Helburuen eta ikerketa-galderen erantzuna:** hasieran planteatutako helburuak zenbateraino bete diren eta ikerketa-galderak nola erantzun diren azaltzea.
+- **Etorkizuneko ikerketa-ildoak:** ikerketatik abiatuta garatu daitezkeen ikerketa berriak edo aztertu beharreko alderdiak proposatzea.
+:::
+
+::: {.callout-note}
+## Ohar metodologikoa
+
+Ondorioak ez dira eztabaidaren laburpen hutsa. Eztabaidan emaitzak interpretatu eta literaturarekin alderatzen dira; ondorioetan, berriz, ikerketak zer erakutsi duen eta zein ekarpen egin duen modu sintetikoan azaltzen da.
+
+Ondorio on batek irakurleari aukera ematen dio lan osoaren balioa eta ekarpena ulertzeko, xehetasun metodologikoetan edo interpretazio teorikoetan berriro sartu gabe.
+:::
+
+## Sintesia edo Indar Ideiak {#sec-sintesia}
+
+::: {.callout-note}
+## Edukia: Ideia nagusiak edo ideia indartsuak
+
+Azpiatal honetan ikerketan zehar lortutako aurkikuntza eta ekarpen nagusiak modu sintetikoan aurkezten dira. Helburua ez da emaitza guztiak berriro azaltzea, baizik eta lanaren mezu nagusiak edo ideia indartsuak laburbiltzea. Ideia horiek ikerketaren ekarpen esanguratsuenak jasotzen dituzte eta irakurleari aukera ematen diote azterlanaren ondorio nagusiak modu argi eta zehatzean ulertzeko.
+
+**Luzera orientagarria:** %2-3.
+
+**Aditz-denborak (APA 7):** Oraina.
+
+**Adibidea:** Azterlan honek erakusten du adimen artifizialaren erabilera gero eta presentzia handiagoa duela hezkuntzan, baina haren integrazio eraginkorra irakasleen prestakuntza digitalaren eta ikuspegi pedagogiko argi baten mende dagoela. Bestalde, emaitzek agerian uzten dute tresna teknologikoen erabilera hutsa ez dela nahikoa ikaskuntza hobetzeko; beharrezkoa da erabilera hori helburu didaktikoekin lerrokatzea.
+
+**Aipu bibliografikoak:** EZ.
+:::
+
+::: {.callout-note}
+## Ideia indartsuen ezaugarriak
+
+Ideia nagusiek ikerketaren balio nagusia modu argi eta sintetikoan adierazi behar dute. Horretarako, komeni da honako ezaugarri hauek kontuan hartzea:
+
+- **Argitasuna eta zehaztasuna:** ikerketaren mezu nagusia modu ulergarrian adieraztea.
+- **Garrantzia:** ikerketaren helburu eta emaitza nagusiekin zuzenean lotuta egotea.
+- **Sintesi-gaitasuna:** aurkikuntza esanguratsuenak laburbiltzea, emaitza guztiak errepikatu gabe.
+- **Koherentzia:** lan osoan zehar garatutako argumentazioarekin bat etortzea.
+- **Transferigarritasuna edo aplikagarritasuna:** aurkikuntzen balioa eta beste testuinguru batzuetan izan dezaketen erabilgarritasuna agerian uztea.
+:::
+
+::: {.callout-note}
+## Ohar metodologikoa
+
+Ideia indartsuak ez dira emaitzen zerrenda hutsa, ezta ondorioen errepikapen zabala ere. Ikerketaren aurkikuntza esanguratsuenak hautatu eta mezu argi, zehatz eta esanguratsuetan bildu behar dira. Ideia bakoitzak ikerketaren helburuekin eta lortutako emaitzekin lotura zuzena izan behar du, eta ez du datuek edo azterlanaren garapenak babesten ez duten baieztapenik jaso behar.
+:::
+
+## Helburu eta ikerketa galderen erantzunak {#sec-helburuen-erantzunak}
+
+::: {.callout-note}
+## Edukia: Helburuen eta ikerketa-galderen erantzuna
+
+Hasieran formulatutako helburu orokorrari, helburu espezifikoei eta ikerketa-galderei emandako erantzuna modu esplizituan aurkezten da. Atal honek erakutsi behar du ikerketak planteatutako xedeak zenbateraino bete dituen eta zer erantzun eman zaien hasieran formulatutako galderei.
+
+**Luzera orientagarria:** %2-3.
+
+**Aditz-denborak (APA 7):** Oraina.
+
+**Adibidea:** Ikerketa-galdera nagusiari erantzunez, ondoriozta daiteke irakasle hasiberrien integrazioa errazten duten faktore nagusiak lankideen laguntza, zuzendaritzaren babesa eta prestakuntza praktikoa direla.
+
+**Gomendioak:** Helburu orokorra eta helburu espezifikoak berriro hartzea eta bakoitzari zer erantzun eman zaion azaltzea komeni da. Era berean, ikerketa-galderen formulazioa berreskuratu eta haiei emandako erantzunak modu argi, zehatz eta koherentean aurkeztea gomendatzen da. Horretarako, helburu edo galdera bakoitza dagokion aurkikuntza nagusiarekin lotu behar da, emaitzak berriro osorik errepikatu gabe.
+
+**Aipu bibliografikoak:** EZ.
+:::
+
+::: {.callout-note}
+## Ohar metodologikoa
+
+Helburuen eta ikerketa-galderen erantzunak ikerketan lortutako ebidentzietan oinarritu behar dira. Ez da nahikoa helburuak bete direla adieraztea; beharrezkoa da aurkikuntzek ematen duten erantzuna zehaztea. Helbururen bat osorik bete ez bada edo ikerketa-galderaren erantzuna partziala bada, egoera hori modu esplizituan adierazi behar da.
+:::
+
+## Etorkizuneko ikerketarako proposamenak {#sec-etorkizuneko-proposamenak}
+
+::: {.callout-note}
+## Edukia: Etorkizuneko ikerketa-ildoak
+
+Ikerketan identifikatutako hutsuneak, galdera berriak edo sakondu beharreko alderdiak abiapuntu hartuta, etorkizuneko ikerketa-proposamenak aurkezten dira. Helburua ez da ikerketaren mugak errepikatzea, baizik eta etorkizuneko ezagutza-garapenerako aukerak identifikatzea eta azterlanetik abiatuta gara daitezkeen ikerketa-ildo berriak proposatzea.
+
+**Luzera orientagarria:** %1-2.
+
+**Aditz-denborak (APA 7):** Oraina edo baldintza.
+
+**Adibidea:** Etorkizunean interesgarria litzateke azterketa hau hainbat ikastetxetan garatzea eta testuinguru desberdinen arteko konparazioak egitea.
+
+**Gomendioak:** Etorkizuneko ikerketa-proposamenek ikerketaren emaitzekin eta mugen atalean identifikatutako alderdiekin lotura zuzena izan behar dute. Bereziki interesgarria izan daiteke lagin handiagoekin ikertzea, beste testuinguru batzuetan azterlanak errepikatzea, denboran zeharreko jarraipenak egitea edo metodologia kuantitatiboak eta kualitatiboak konbinatzea. Proposamenak zehatzak, bideragarriak eta ikerketaren ekarpenetatik eratorriak izatea komeni da.
+
+**Aipu bibliografikoak:** GOMENDAGARRIAK (etorkizuneko ikerketa-ildo jakin bat justifikatzeko beharrezkoak direnean).
+:::
+
+::: {.callout-note}
+## Ohar metodologikoa
+
+Etorkizuneko ikerketa-ildoek ez dute proposamen orokorren zerrenda hutsa izan behar. Ikerketan lortutako emaitzetatik, identifikatutako mugetatik edo erantzunik gabe geratutako galderetatik abiatzea komeni da. Proposamen bakoitzak argi adierazi behar du zer aztertu nahi den eta zergatik izan daitekeen interesgarria ikerketa-ildo hori garatzea.
+:::

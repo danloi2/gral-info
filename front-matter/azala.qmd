@@ -1,0 +1,60 @@
+```{=typst}
+// ==============================================================================
+// CONTINUOUS FIGURE / TABLE NUMBERING (APA 7)
+// ==============================================================================
+// For single-file books Quarto injects, after `hefa-style.typ`, a level-1
+// heading rule that resets the figure, table and equation counters at every
+// chapter. Without a chapter prefix that produces duplicates ("Irudia 1" in
+// chapters 3 and 4). Typst applies the most recently defined show rule first,
+// and `hefa-chapter-heading` does not pass the heading on, so re-applying it
+// here keeps Quarto's reset from running. Must stay at the top of the body.
+#show heading.where(level: 1): hefa-chapter-heading
+
+// ==============================================================================
+// COVER PAGE AND SHARED METADATA (PDF only)
+// ==============================================================================
+// The cover lives in its own Typst file (`templates/typst/hefa-cover.typ`).
+#include "templates/typst/hefa-cover.typ"
+
+// Load `metadata.tfg` again for the running headers. In the book PDF all files
+// are joined into one Typst document, so these `#let` variables stay visible in
+// later sections (`front-matter/aurkibidea.qmd` uses `lan-mota` and `egilea`).
+#let config = yaml("_quarto.yml")
+#let tfg = if "metadata" in config and "tfg" in config.metadata {
+  config.metadata.tfg
+} else if "tfg" in config {
+  config.tfg
+} else {
+  (:)
+}
+
+#let egilea = tfg.at("egilea", default: "Ane Garcia Goikoetxea")
+#let ikasturtea = tfg.at("ikasturtea", default: "2026/2027")
+#let lan-mota = tfg.at("lan-mota", default: "Gradu Amaierako Lana (GRAL)")
+#let zuzendaria = tfg.at("zuzendaria", default: "Daniel Losada Iglesias, dk.")
+
+// ------------------------------------------------------------------------------
+// FRONT-MATTER HEADING HELPER
+// ------------------------------------------------------------------------------
+// `#prelim-heading("Title")` looks like a chapter heading but is plain text:
+// unnumbered, not in the table of contents and not in the running headers.
+// Used by `eskerrak.qmd` and `laburpenak.qmd`.
+#let prelim-heading(title) = {
+  v(1.2em)
+  text(size: 16pt, weight: "bold", font: "EHUSans")[#title]
+  v(0.25em)
+  line(length: 3.5cm, stroke: 2pt + rgb("#5FD790"))
+  v(0.6em)
+}
+```
+
+<!-- ======================================================================= -->
+<!-- WORD (DOCX) COVER                                                        -->
+<!-- Placeholder replaced by `templates/docx/hefa-docx.lua` with the HEFA     -->
+<!-- cover, built from `metadata.tfg` in `_quarto.yml`.                       -->
+<!-- ======================================================================= -->
+
+::: {.content-visible when-format="docx"}
+::: {.hefa-docx-cover}
+:::
+:::

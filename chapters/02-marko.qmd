@@ -1,0 +1,152 @@
+# MARKO TEORIKOA {#sec-marko-teorikoa}
+
+::: {.callout-note}
+## Edukia: Marko teorikoa
+
+Atal honetan ikerketaren oinarri teorikoak, kontzeptualak eta aurrekari zientifikoak aurkezten dira. Helburua da ikerketa-gaia ezagutza zientifikoaren testuinguruan kokatzea, eremu berean planteatutako galderak, problemak eta ekarpen nagusiak aztertuz.
+
+Horretarako, literatura zientifikoaren berrikuspen sistematikoa egin behar da, gaiaren inguruan indarrean dauden ikuspegi teorikoak, autore nagusiak, aurretiazko ikerketak eta eztabaida akademikoak aurkeztuz. Aldeko eta kontrako argudioak bildu behar dira, ikuspegi kritikoa eta orekatua eskainiz.
+
+**Luzera orientagarria:** % 25–35 (% 30).
+
+**Aditz-denborak (APA 7):** Oraina, iragana eta orain perfektua.
+
+**Aipu bibliografikoak:** Nahitaezkoak. Literaturaren berrikuspen osoa iturri zientifikoetan oinarritu behar da, eta baieztapen teoriko edo enpiriko guztiak APA 7 arauen arabera erreferentziatu behar dira.
+:::
+
+::: {.callout-note}
+## Marko teorikoaren ikuspegi akademikoa
+
+Marko teorikoak ez du egilearen iritzi pertsonalik edo posizionamendu propiorik jaso behar. Atal honetan literaturan aurkitutako ideiak, teoriak, emaitzak eta interpretazioak aurkezten dira modu objektiboan eta akademikoan.
+
+**Adibidea:** Literaturak erakusten du irakasleen prestakuntzak eragin zuzena duela inklusio-praktiketan. Hainbat autorek hezkuntza inklusiboaren garapenean prestakuntza espezializatuaren garrantzia azpimarratu dute azken urteotan.
+:::
+
+::: {.callout-note}
+## Marko teorikoaren helburuak
+
+Marko teorikoaren bidez:
+
+- Ikerketa-gaia ezagutza zientifikoaren testuinguruan kokatzen da.
+- Kontzeptu nagusiak definitzen eta mugatzen dira.
+- Ikuspegi teoriko nagusiak aurkezten dira.
+- Aurretiazko ikerketen emaitzak aztertzen dira.
+- Ezagutza zientifikoan dauden adostasunak, desadostasunak eta hutsuneak identifikatzen dira.
+- Ikerketaren justifikazio teorikoa eraikitzen da.
+:::
+
+::: {.callout-note}
+## Informazio-iturrien hautaketa
+
+Literaturaren berrikuspena egiteko, kalitate zientifikoko iturriak lehenetsi behar dira. Gomendagarria da honako iturri hauek erabiltzea:
+
+- Artikulu zientifikoak.
+- Liburu akademikoak.
+- Liburu-kapituluak.
+- Doktorego-tesiak.
+- Erakunde espezializatuek argitaratutako txostenak.
+
+**Bilaketak egiteko datu-base gomendatuak:**
+
+- Web of Science (WoS).
+- Scopus.
+- Dialnet.
+- ERIC (Education Resources Information Center).
+- SciELO.
+:::
+
+::: {.callout-note}
+## Idazteko gomendioak
+
+Marko teorikoa ez da autoreen laburpen-zerrenda bat izan behar. Ez da gomendagarria autore bat bestearen atzetik aurkeztea, aurkikuntzak soilik zerrendatuz. Horren ordez, literatura gai, kategoria, teoria edo eztabaida nagusien arabera antolatu behar da.
+
+Egile desberdinen ekarpenak alderatu, kontrastatu eta erlazionatu behar dira, antzekotasunak eta desberdintasunak azpimarratuz. Horri esker, ikerketaren oinarri teorikoa modu koherentean eraikitzen da.
+:::
+
+::: {.callout-note}
+## Eduki nagusiak: sostengu-esparru teorikoa
+
+Marko teorikoak, gutxienez, bi osagai nagusi jaso beharko lituzke.
+
+Ikerketaren gaiari lotutako teoria, eredu kontzeptual eta ikuspegi nagusiak aurkezten dira sostengu-esparru teorikoan. Atal honetan azaltzen da nola ulertu izan den fenomenoa ikuspegi zientifikotik eta zein diren erreferentziazko autore eta korronte teoriko nagusiak.
+:::
+
+::: {.callout-note}
+## Eduki nagusiak: aurretiazko ikerketak
+
+Gaiaren inguruan aurretik egin diren ikerketak aztertzen dira. Erabilitako metodologiak, lortutako emaitzak, ondorio nagusiak eta identifikatutako hutsuneak aurkezten dira.
+
+Bereziki interesgarria da emaitza bateratuak nahiz emaitza kontraesankorrak identifikatzea, ikerketa-eremuaren egoera eta oraindik argitu gabe dauden alderdiak hobeto ulertzeko.
+:::
+
+::: {.callout-note}
+## Ohar metodologikoa
+
+Marko teorikoaren amaieran, irakurleak argi ikusi behar du:
+
+- Zer dakigun gaur egun ikerketa-gaiari buruz.
+- Zer ez dakigun oraindik.
+- Zein eztabaida nagusi dauden literaturan.
+- Nola kokatzen den aurkezten den ikerketa hutsune edo behar horren barruan.
+
+Horrela, marko teorikoa eta aurreko atalean aurkeztutako ikerketa-problema modu koherentean lotzen dira.
+:::
+
+{{< lipsum 1>}}
+
+## Gaiaren oinarri teorikoak {#sec-oinarri-teorikoak}
+
+::: {.callout-note}
+## Edukia: Aurretiazko ikerketak eta emaitzak
+
+Atal honetan aurretik egindako ikerketak, lortutako emaitzak eta ikerketa-eremuko joera nagusiak berrikusten dira. Helburua da gaiari buruz dagoen ezagutza zientifikoa aztertzea, emaitza nagusiak alderatzea eta aurretiazko ikerketen ekarpenak identifikatzea.
+
+**Luzera orientagarria:** % 10–15.
+
+**Aditz-denborak (APA 7):** Iragana eta orain perfektua.
+
+**Adibidea:** Garcíak (2022) aurkitu zuen prestakuntzak eragin positiboa zuela. Azken urteetan, hainbat ikerketak ondorio berak baieztatu dituzte.
+
+**Aipu bibliografikoak:** Nahitaezkoak.
+:::
+
+Hezkuntza inklusiboa ez da ikasle talde jakin bati zuzendutako neurri multzo bat, ikastetxe osoaren kultura, politika eta praktiken eraldaketa baizik [@booth2011]. @ainscow2020 nabarmentzen duenez, ekitatearen aldeko aurrerapenek ikastetxeen arteko lankidetza eta testuinguruaren azterketa sistematikoa eskatzen dituzte.
+
+{{< lipsum 1>}}
+
+## Aurreko ikerketen azterketa {#sec-aurreko-ikerketak}
+
+::: {.callout-note}
+## Edukia: Aurretiazko ikerketak eta emaitzak
+
+Atal honetan aurretik egindako ikerketak, lortutako emaitzak eta ikerketa-eremuko joera nagusiak berrikusten dira. Helburua da gaiari buruz dagoen ezagutza zientifikoa aztertzea, emaitza nagusiak alderatzea eta aurretiazko ikerketen ekarpenak identifikatzea.
+
+**Luzera orientagarria:** % 10–15.
+
+**Aditz-denborak (APA 7):** Iragana eta orain perfektua.
+
+**Adibidea:** Garcíak (2022) aurkitu zuen prestakuntzak eragin positiboa zuela. Azken urteetan, hainbat ikerketak ondorio berak baieztatu dituzte.
+
+**Aipu bibliografikoak:** Nahitaezkoak.
+:::
+
+{{< lipsum 1 >}}
+
+## Kontzeptu nagusien definizioa {#sec-kontzeptuak}
+
+::: {.callout-note}
+## Edukia: Kontzeptu giltzarriak definitzea eta mugatzea
+
+Atal honetan lanaren oinarri diren kontzeptu giltzarriak definitzen eta mugatzen dira. Horretarako, kontzeptu bakoitzaren esanahia, ezaugarri nagusiak eta ikerketaren testuinguruan duen erabilera azaltzen dira. Definizioek zehaztasun kontzeptuala bermatzen dute, eta ikerketaren esparru teorikoa argitzen laguntzen dute.
+
+**Luzera orientagarria:** % 5.
+
+**Aditz-denborak (APA 7):** Oraina.
+
+**Adibidea:** Hezkuntza inklusiboa ikasle guztien parte-hartzea eta ikaskuntza bermatzea helburu duen ikuspegia da (Ainscow, 2020).
+
+**Aipu bibliografikoak:** Nahitaezkoak.
+:::
+
+{{< lipsum 1 >}}
+

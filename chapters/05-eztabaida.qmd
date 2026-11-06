@@ -1,0 +1,214 @@
+# EZTABAIDA {#sec-eztabaida}
+
+::: {.callout-note}
+## Edukia: Eztabaida
+
+Atal honetan ikerketan lortutako emaitzak interpretatzen dira eta aurreko ikerketekin alderatzen dira. Helburua ez da emaitzak berriro aurkeztea, baizik eta haien esanahia azaltzea, ikerketa-galderei eta helburuei erantzunez. Eztabaidak ikerketaren ekarpena, inplikazioak eta mugak azaleratu behar ditu.
+
+**Luzera orientagarria:** %10-15 (%15).
+
+**Aditz-denborak (APA 7):** Oraina.
+
+**Adibidea:** Emaitzek adierazten dute irakasleen prestakuntza praktikoak eragin positiboa duela hezkuntza inklusiboaren garapenean.
+
+**Aipu bibliografikoak:** NAHITAEZKOAK.
+:::
+
+## Emaitzen Interpretazioa eta Literaturarekin alderaketa {#sec-interpretazioa}
+
+::: {.callout-note}
+## Edukia: Emaitzen interpretazioa eta aurreko ikerketekin alderaketa
+
+Azpiatal honetan ikerketan lortutako aurkikuntza nagusiak interpretatzen dira eta marko teorikoan zein aurreko ikerketetan identifikatutako ekarpenekin alderatzen dira. Helburua da emaitzen esanahia azaltzea, ikerketa-galderei eta helburuei erantzunez, eta aurkikuntzak dagoen ezagutza zientifikoaren testuinguruan kokatzea.
+
+Interpretazioak datuetan identifikatutako joerak, ereduak, harremanak, desberdintasunak edo tentsioak azaldu behar ditu. Aldi berean, aurkikuntza horiek aurreko ikerketekin alderatu behar dira, antzekotasunak, desberdintasunak eta ikerketaren ekarpen espezifikoak identifikatuz.
+
+Atal honetan ikertzailearen ahots akademikoak protagonismo handiagoa hartzen du, datuen esanahia eraikitzen eta aurreko literaturarekin lotzen baita.
+
+**Luzera orientagarria:** %7-10.
+
+**Aditz-denborak (APA 7):** Oraina + Iragana.
+
+**Adibidea:** Emaitzek adierazten dute lankideen laguntza funtsezkoa dela irakasle hasiberrien integrazio profesionalean. Aurkikuntza hori bat dator aurreko hainbat ikerketarekin, zeinek laguntza profesionalaren garrantzia azpimarratu baitute. Hala ere, ikerketa honetan zuzendaritza-taldearen papera literaturan deskribatutakoa baino nabarmenagoa agertu da.
+
+**Aipu bibliografikoak:** NAHITAEZKOAK.
+:::
+
+::: {.callout-note}
+## Garatu beharreko alderdiak
+
+Azpiatal honetan komeni da honako galdera hauei erantzutea:
+
+- Zer esan nahi dute aurkitutako emaitzek?
+- Nola erantzuten diete ikerketa-galderei?
+- Bat datoz aurreko ikerketekin?
+- Zer desberdintasun edo ñabardura berri aurkitu dira?
+- Zer ekarpen egiten du ikerketa honek aztertutako gaiari buruzko ezagutzan?
+:::
+
+::: {.callout-note}
+## Ikerketa kuantitatiboetan
+
+Azaldu behar da aurkitutako erlazio, desberdintasun edo joeren esanahia, eta aurreko ikerketekin duten lotura.
+
+**Adibidea:** Prestakuntza-mailaren eta autoeraginkortasunaren arteko erlazio positiboak iradokitzen du prestakuntza espezializatuak eragina izan dezakeela gaitasun profesionalaren pertzepzioan. Emaitza hori aurreko ikerketetan aurkitutako joerekin bat dator.
+:::
+
+::: {.callout-note}
+## Ikerketa kualitatiboetan
+
+Sortutako kategorien edo gaien esanahia interpretatzen da eta aurreko literaturarekin lotzen da.
+
+**Adibidea:** Parte-hartzaileek behin eta berriz aipatutako laguntza profesionalaren beharrak erakusten du integrazio profesionala komunitatearen babesean eraikitzen den prozesua dela. Aurkikuntza hori irakasle hasiberrien sozializazio profesionalari buruzko aurreko ikerketekin koherentea da.
+:::
+
+::: {.callout-note}
+## Ohar metodologikoa
+
+Atal honetan ez da literatura berririk aurkeztu behar; marko teorikoan landutako erreferentziak erabiltzen dira emaitzak interpretatzeko eta kontrastatzeko. Eztabaidaren helburua ez da emaitzak errepikatzea, baizik eta haien esanahia eta balioa azaltzea.
+
+**Aipu bibliografikoak:** NAHITAEZKOAK.
+:::
+
+## Ikerketaren Inplikazioak {#sec-inplikazioak}
+
+::: {.callout-note}
+## Edukia: Inplikazioak
+
+Azpiatal honetan ikerketaren aurkikuntzek izan ditzaketen ondorio teorikoak, praktikoak, profesionalak edo metodologikoak azaltzen dira. Helburua da aztertzea ikerketak zer ekarpen egiten duen ezagutzaren garapenean eta nola lagun dezakeen hezkuntza-praktika, erakundeen jarduna edo etorkizuneko ikerketak hobetzen. Ez da emaitza berririk aurkezten; lortutako aurkikuntzetatik eratorritako aplikazio eta ondorio nagusiak azaltzen dira.
+
+**Luzera orientagarria:** %2-3.
+
+**Aditz-denborak (APA 7):** Oraina.
+
+**Adibidea:** Emaitza hauek iradokitzen dute irakasle hasiberrientzako laguntza-programak indartzeak integrazio profesionala erraztu dezakeela. Era berean, aurkikuntzek erakusten dute prestakuntza praktikoari garrantzi handiagoa ematea komenigarria izan daitekeela irakasleen hasierako prestakuntzan.
+
+**Aipu bibliografikoak:** GOMENDAGARRIAK. Literaturako ekarpenekin loturak egiteko erabil daitezke, baina ez dira nahitaezkoak.
+:::
+
+::: {.callout-note}
+## Garatu beharreko alderdiak
+
+Atal honetan komeni da honako galdera hauei erantzutea:
+
+- Zertarako balio dute aurkikuntza hauek?
+- Zer ondorio praktiko izan ditzakete?
+- Zer ekarpen egiten diote teoriari edo ezagutzari?
+- Zer hobekuntza proposa daitezke hezkuntza-praktikan?
+- Zer ikasi dezakete profesionalek edo erakundeek ikerketa honetatik?
+:::
+
+::: {.callout-note}
+## Inplikazio praktikoak
+
+Hezkuntza-testuinguruan, ikastetxeetan edo profesionalen jardunean aplika daitezkeen ondorioak aurkezten dira.
+
+**Adibidea:**
+
+Emaitzek erakusten dute harrera-prozesu egituratuek irakasle hasiberrien integrazioa erraztu dezaketela. Horrenbestez, ikastetxeek mentoring-programak edo laguntza-sare formalak ezartzea komenigarria izan daiteke.
+:::
+
+::: {.callout-note}
+## Inplikazio teorikoak
+
+Ikerketak aztertutako fenomenoari buruzko ezagutza teorikoan egiten duen ekarpena azaltzen da.
+
+**Adibidea:** Azterlanak erakusten du laguntza profesionalaren kontzeptua ez dela soilik orientazio teknikoarekin lotzen, baizik eta dimentsio emozional eta sozial garrantzitsuak ere badituela.
+:::
+
+::: {.callout-note}
+## Inplikazio metodologikoak
+
+Erabilitako diseinuak, teknikek edo estrategiek etorkizuneko ikerketetarako izan dezaketen erabilgarritasuna azaltzen da.
+
+**Adibidea:** Kasu-azterketaren diseinuak fenomenoa sakon aztertzeko aukera eman du, eta antzeko testuinguruetan garatuko diren etorkizuneko ikerketetarako erreferentzia metodologiko interesgarria izan daiteke.
+:::
+
+::: {.callout-note}
+## Ohar metodologikoa
+
+Inplikazioak beti ikerketaren emaitzetan oinarritu behar dira. Ez dira gomendio orokor edo espekulatiboak izan behar, baizik eta aurkikuntzetatik zuzenean eratorritako ondorio arrazoituak. Atal honek erakusten du ikerketak zer balio eta erabilgarritasun izan dezakeen akademiaren eta praktikaren ikuspegitik.
+
+**Aipu bibliografikoak:** GOMENDAGARRIAK. Literaturako ekarpenekin loturak egiteko erabil daitezke, baina ez dira nahitaezkoak.
+:::
+
+## Ikerketaren mugak {#sec-mugak}
+
+::: {.callout-note}
+## Edukia: Ikerketaren mugak
+
+Azpiatal honetan ikerketaren mugak modu kritikoan eta gardenean azaltzen dira. Helburua ez da ikerketaren balioa zalantzan jartzea, baizik eta haren irismena, baldintzak eta emaitzen interpretazioan kontuan hartu beharreko faktoreak zehaztea. Mugak identifikatzeak ikerketaren sendotasuna eta zorroztasun metodologikoa indartzen ditu, eta emaitzen transferigarritasuna edo orokortasuna hobeto ulertzen laguntzen du.
+
+**Luzera orientagarria:** %1-2.
+
+**Aditz-denborak (APA 7):** Oraina.
+
+**Adibidea:** Ikerketaren muga nagusia laginaren tamaina mugatua da. Gainera, azterlana testuinguru bakar batean garatu denez, emaitzak ezin dira zuzenean beste errealitate guztietara transferitu.
+
+**Aipu bibliografikoak:** EZ. Salbuespen gisa, transferigarritasuna, baliozkotasuna edo antzeko kontzeptu metodologikoak justifikatu nahi badira, aipu metodologiko puntualak erabil daitezke.
+:::
+
+::: {.callout-note}
+## Garatu beharreko alderdiak
+
+Atal honetan komeni da honako galdera hauei erantzutea:
+
+- Zer baldintzek mugatu dute ikerketa?
+- Zer zailtasun aurkitu dira datu-bilketan edo analisian?
+- Zein neurritan baldintzatzen dute muga horiek emaitzen interpretazioa?
+- Zer kontuan hartu behar da emaitzak beste testuinguru batzuetara eramaterakoan?
+:::
+
+::: {.callout-note}
+## Muga metodologikoak
+
+Ikerketa-diseinuarekin, laginarekin edo erabilitako teknikekin lotutako mugak azaltzen dira.
+
+**Adibideak:**
+
+- Lagin txikia edo mugatua.
+- Denbora-baliabide urria.
+- Datu-bilketa une jakin batean egitea.
+- Tresna propioen erabilera.
+- Parte-hartzaile kopuru mugatua.
+
+**Adibidea:** Ikerketan parte hartu duten informanteen kopurua mugatua izan da; horregatik, emaitzek aztertutako errealitatearen ikuspegi sakona eskaintzen badute ere, ezin dute populazio osoa ordezkatu.
+:::
+
+::: {.callout-note}
+## Testuinguruaren mugak
+
+Ikerketa egin den ingurune edo kasuaren berezitasunek sortutako mugak azaltzen dira.
+
+**Adibideak:**
+
+- Ikastetxe bakar batean egindako azterketa.
+- Lurralde jakin bateko datuak.
+- Hezkuntza-etapa zehatz bati lotutako emaitzak.
+
+**Adibidea:** Azterlana ikastetxe bakar batean egin denez, emaitzak testuinguru horren ezaugarri berezien arabera ulertu behar dira.
+:::
+
+::: {.callout-note}
+## Ikerketa kualitatiboetako berezitasunak
+
+Kasu-azterketetan, ikerketa fenomenologikoetan edo etnografietan, muga nagusia ez da laginaren tamaina izaten, baizik eta emaitzen transferigarritasuna.
+
+**Adibidea:** Ikerketa honek ez du orokortze estatistikoa bilatzen; aitzitik, aztertutako kasuaren ulermen sakona eskaintzea du helburu. Horregatik, emaitzen balioa transferigarritasunean datza, ez ordezkaritza estatistikoan.
+:::
+
+::: {.callout-note}
+## Ikerketa kuantitatiboetako berezitasunak
+
+Azpimarratu daitezke laginaren ordezkaritasuna, erantzun-tasa edo aldagai kontrolatu gabeak.
+
+**Adibidea:** Baliteke aztertu gabeko beste aldagai batzuek ere emaitzetan eragina izatea, eta horiek ez dira ikerketa honetan kontrolatu.
+:::
+
+::: {.callout-note}
+## Ohar metodologikoa
+
+Mugen azalpena ez da autokritika hutsa. Atal honen helburua da ikerketaren irismena modu errealistan definitzea eta emaitzak interpretatzeko beharrezko testuingurua eskaintzea. Muga argi eta arrazoituek ikerketaren sinesgarritasuna handitzen dute.
+
+**Aipu bibliografikoak:** EZ. Salbuespen gisa, transferigarritasuna, baliozkotasuna edo antzeko kontzeptu metodologikoak justifikatu nahi badira, aipu metodologiko puntualak erabil daitezke.
+:::

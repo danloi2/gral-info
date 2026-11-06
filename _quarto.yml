@@ -1,0 +1,211 @@
+# ==============================================================================
+# QUARTO PROJECT CONFIGURATION — UPV/EHU HEFA UNDERGRADUATE THESIS (GRAL)
+# ==============================================================================
+# Template: Undergraduate Thesis (TFG / GRAL), Faculty of Education, Philosophy
+#           and Anthropology (HEFA), University of the Basque Country (UPV/EHU).
+# Outputs:  PDF via Typst (official submission), HTML web book, DOCX (review).
+#
+# This file holds the project settings, the student's metadata, the chapter
+# list, the citation settings and the per-format options.
+#
+# Build from the project root (never render `index.qmd` on its own):
+#   quarto render              -> all formats, written to `build/`
+#   quarto render --to typst   -> PDF only
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. PROJECT
+# ------------------------------------------------------------------------------
+project:
+  type: book             # Multi-page HTML site; PDF and DOCX as one file each
+  output-dir: build      # All rendered output goes here
+  # No `resources:` needed for fonts: the HTML theme (`templates/html/hefa.scss`)
+  # makes Quarto copy them next to the CSS, and Typst reads them from the source.
+
+# Document language. Localises generated labels ("Irudia", "Taula",
+# "Aurkibidea"...) and sets Basque hyphenation rules.
+lang: eu
+
+# ==============================================================================
+# 2. THESIS METADATA (EDIT HERE)
+# ==============================================================================
+# Enter your details once, here:
+# - `templates/typst/hefa-cover.typ` (cover) and `front-matter/azala.qmd` (running
+#   headers) read `metadata.tfg` directly with Typst's `yaml()` function.
+# - `&titulua`, `&azpititulua` and `&egilea` are YAML anchors; section 3 reuses
+#   them as `*titulua`, etc. Edit only the quoted text and keep the `&name`
+#   part. This block must stay above `book:` (an anchor has to be defined
+#   before it is used).
+# ==============================================================================
+metadata:
+  txantiloia:              # Template information (not shown in the document)
+    bertsioa: "1.1.0"      # Template version
+    data: "2026-11"        # Release date
+    lizentzia: "MIT"       # Licence
+  tfg:
+    titulua: &titulua "Lanaren Izenburua"            # Title (cover, HTML, DOCX)
+    azpititulua: &azpititulua "Laburra, esanguratsua, zehatza, bereizgarria, erakargarria, argia, garrantzia, interesa, atentzioa"  # Subtitle
+    egilea: &egilea "Izena Abizena1 Abizena2"        # Author (cover and running headers)
+    nan: "12345678Z"                                 # National ID number (cover)
+    gradua: "Lehen Hezkuntzako Gradua"               # Degree (cover)
+    zuzendaria: "Zuzendariaren Izena eta Gradua"     # Supervisor (cover)
+    saila: "Sailaren Izena eta Gradua"               # Department (cover)
+    ikasturtea: "2026/2027"                          # Academic year
+    lan-mota: "Gradu Amaierako Lana (GRAL)"          # Work type (running headers)
+    deialdia: "2026/2027 Ikasturtea - Ohiko deialdia (Ekaina)"  # Exam session (cover)
+
+# ==============================================================================
+# 3. BOOK STRUCTURE
+# ==============================================================================
+# - `index.qmd` must be the first entry. It holds the unnumbered front matter
+#   (cover, eskerrak, laburpenak, aurkibidea) through `{{< include >}}`.
+# - Each later entry is one numbered chapter that starts with a single
+#   level-1 heading (`# TITLE {#sec-id}`). In HTML each chapter is its own
+#   page; in PDF and DOCX the chapters are joined in this order.
+# - To add, remove or reorder chapters, edit this list only.
+# ==============================================================================
+book:
+  title: *titulua
+  subtitle: *azpititulua
+  author: *egilea
+  output-file: "urtea-abizena-izena-eu"   # PDF/DOCX file name, without extension
+  downloads: [pdf, docx]                # Download buttons in the HTML book
+  search: true                          # Search box in the HTML book
+  site-url: "https://danloi2.github.io/gral-info/"   # Published by .github/workflows/publish.yml
+  repo-url: "https://github.com/danloi2/gral-info"
+  # Icon-only download buttons (white) at the bottom of the HTML sidebar; the
+  # label is shown as a tooltip and read by screen readers. Quarto's
+  # `downloads` option only adds a small icon next to the title, which is easy
+  # to miss and hidden when the sidebar is collapsed on narrow screens.
+  # Paths starting with "/" are made relative to each page by Quarto.
+  # NOTE: keep the file names in sync with `output-file` above.
+  sidebar:
+    logo: assets/images/hefa-logo-positive.svg   # HEFA logo (positive, transparent)
+    logo-alt: "EHU - Hezkuntza, Filosofia eta Antropologia Fakultatea"
+    style: docked                                # Fixed sidebar (no floating card)
+    collapse-level: 1
+    footer: |
+      ::: {.hefa-downloads}
+      [[]{.bi .bi-file-earmark-pdf}](/urtea-abizena-izena-eu.pdf){.hefa-download download="" title="Deskargatu PDF" aria-label="Deskargatu PDF"}
+      [[]{.bi .bi-file-earmark-word}](/urtea-abizena-izena-eu.docx){.hefa-download download="" title="Deskargatu Word (DOCX)" aria-label="Deskargatu Word (DOCX)"}
+      :::
+  page-footer:                          # Footer bar on every HTML page
+    left: *titulua
+    center: "UPV/EHU · Hezkuntza, Filosofia eta Antropologia Fakultatea"
+    right: *egilea
+  chapters:
+    - index.qmd
+    - chapters/01-sarrera.qmd
+    - chapters/02-marko.qmd
+    - chapters/03-metodo.qmd
+    - chapters/04-emaitzak.qmd
+    - chapters/05-eztabaida.qmd
+    - chapters/06-ondorioak.qmd
+    - chapters/07-erreferentziak.qmd
+    - chapters/08-eranskinak.qmd
+
+# ==============================================================================
+# 4. CITATIONS AND CAPTIONS (APA 7, ALL FORMATS)
+# ==============================================================================
+bibliography: bibliography/references.bib   # BibTeX database
+csl: bibliography/apa.csl                   # APA 7th edition citation style
+citeproc: true             # Format citations with Pandoc citeproc and the CSL above
+                           # (in the PDF this replaces Typst's built-in bibliography)
+link-citations: true       # Each in-text citation links to its reference entry
+fig-cap-location: top      # APA 7: figure captions above the figure
+tbl-cap-location: top      # APA 7: table captions above the table
+# Keep bold one-line subheadings (**Like this**) with the next block in the
+# PDF and the DOCX, so they never stay alone at the bottom of a page.
+filters:
+  - templates/filters/keep-with-next.lua
+  - templates/filters/apa-references.lua   # PDF: APA hanging indent in the reference list
+crossref:
+  chapters: false          # DOCX: continuous numbering ("Taula 1", "Taula 2"), as in the PDF (APA 7)
+
+# ==============================================================================
+# 5. OUTPUT FORMATS
+# ==============================================================================
+format:
+  # ----------------------------------------------------------------------------
+  # A. TYPST -> PDF (official submission)
+  # ----------------------------------------------------------------------------
+  typst:
+    # DO NOT REMOVE. For book projects Quarto uses its built-in "orange-book"
+    # Typst template, which adds its own cover, table of contents and chapter
+    # heading style. These three partials replace it, so the HEFA cover
+    # (`hefa-cover.typ`) and the HEFA styles (`hefa-style.typ`) are used.
+    template-partials:
+      - templates/typst/partials/typst-show.typ
+      - templates/typst/partials/page.typ
+      - templates/typst/partials/numbering.typ
+
+    # Page size and margins (HEFA guidelines: A4, 2.5 cm on every side).
+    # The cover page sets its own margins in `hefa-cover.typ`.
+    papersize: a4
+    margin:
+      top: 2.5cm
+      bottom: 2.5cm
+      left: 2.5cm
+      right: 2.5cm
+
+    # Body font. NOTE: `templates/typst/hefa-style.typ` sets the font and size again
+    # (`#set text(...)`) and its values win, so change both places together.
+    fontsize: 11pt         # HEFA allows 11-12 pt
+    mainfont: "EHUSans"    # UPV/EHU corporate typeface
+    font-paths: assets/fonts   # Load fonts from `assets/fonts/`, so no installation is needed
+
+    # Heading numbers: "1." for chapters, "1.1." for sections, and so on
+    section-numbering: 1.1.
+
+    # Keep false: the table of contents (Aurkibidea) is placed by hand in
+    # `front-matter/aurkibidea.qmd`, after the front matter.
+    toc: false
+
+    # HEFA / APA 7 Typst rules (fonts, headings, tables, figures, quotes, boxes)
+    include-before-body: templates/typst/hefa-style.typ
+
+    # Ignore the column widths implied by Markdown table dashes and let Typst
+    # size the columns to fit their content
+    tbl-colwidths: false
+
+  # ----------------------------------------------------------------------------
+  # B. HTML -> web book (one page per chapter)
+  # ----------------------------------------------------------------------------
+  html:
+    theme:
+      light: [cosmo, templates/html/hefa.scss]   # Bootstrap theme + HEFA overrides
+    # APA 7 captions: label on its own line ("Taula 1"), title below in italics.
+    # The script wraps the label so the theme can make it bold.
+    crossref:
+      title-delim: "<br>"
+      # Each chapter is a separate HTML page and Quarto numbers floats per
+      # page, so continuous numbering is impossible here: use "Taula 3.1".
+      chapters: true
+    include-in-header: templates/html/caption-labels.html
+    toc: true              # "On this page" section list, shown on each chapter page
+    toc-depth: 3
+    toc-title: "Aurkibidea"
+    number-sections: true  # Same numbering as the PDF (1., 1.1, 1.1.1)
+    number-depth: 3
+    smooth-scroll: true
+    anchor-sections: true  # Link icon next to headings
+    html-math-method: mathjax
+
+  # ----------------------------------------------------------------------------
+  # C. DOCX -> Word document (supervisor review and track changes)
+  # ----------------------------------------------------------------------------
+  docx:
+    # HEFA Word template: styles, A4 page, running headers and page numbers.
+    # Generated by `templates/docx/build-reference-docx.py`.
+    reference-doc: templates/docx/hefa-reference.docx
+    # Cover page, TOC placement, page breaks, APA captions and tables.
+    # `post-render` so it runs after Quarto has built captions.
+    filters:
+      - path: templates/docx/hefa-docx.lua
+        at: post-render
+    # Keep false: the filter places the table of contents after the abstracts,
+    # as in the PDF (Pandoc's own TOC would go before the cover).
+    toc: false
+    number-sections: true
+    number-depth: 3
+    highlight-style: github   # Syntax colours for code blocks

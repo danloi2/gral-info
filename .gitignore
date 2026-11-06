@@ -1,0 +1,26 @@
+# Rendered output (regenerate with `quarto render`)
+/build/
+
+# Quarto caches and intermediate files
+/.quarto/
+*_files/
+/index.typ
+*.quarto_ipynb
+
+# Editor / OS clutter
+.DS_Store
+Thumbs.db
+
+**/*.quarto_ipynb
+
+# Local scratch / example projects
+/tmp/
+
+# Temporary file of templates/docx/build-reference-docx.py
+/templates/docx/.pandoc-default-reference.docx
+
+# Official reference documents (kept locally, not published)
+/docs/reference/
+
+# Local Claude Code / editor helpers
+/.claude/
