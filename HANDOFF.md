@@ -41,7 +41,7 @@ Each section contains Basque guidance callouts (*Edukia*, *Luzera orientagarria*
 ```text
 ├── _quarto.yml                  # project: book; metadata.tfg (YAML anchors); book.chapters/sidebar/page-footer; formats; filters
 ├── index.qmd                    # Landing page: hidden "Atariko atalak" title + {{< include >}} of front-matter/*
-├── README.md · AGENTS.md · HANDOFF.md
+├── README.md · AGENTS.md · HANDOFF.md · LICENSE
 ├── .github/workflows/publish.yml # quarto render → GitHub Pages (checkout v7, configure-pages v6, upload-pages-artifact v5, deploy-pages v5)
 ├── .claude/skills/handoff/SKILL.md   # /handoff skill (Claude Code); .agents/skills/handoff/SKILL.md is a symlink to it
 ├── front-matter/
@@ -92,6 +92,7 @@ Milestones (all v1.1.0, 2026-11-06):
 - **Page-break polish** — no orphan callout titles / bold subheadings (0 in PDF; 1 residual inside a DOCX callout body in LibreOffice only).
 - **Sample references** — Ainscow 2020, Booth & Ainscow 2011, Braun & Clarke 2006, Creswell & Poth 2018, Hernández-Sampieri & Mendoza 2018 (+ existing ONU 2015) cited in chapters 1–3; chapter 7 lists them in all formats; APA hanging indent in the PDF. Typo fixed: ERFERENTZIAK → ERREFERENTZIAK.
 - **Published** — public repo `danloi2/gral-info` (English README with author/ORCID, English About + topics), GitHub Pages via Actions; `docs/reference/` kept out of the repo by the user's choice.
+- **License** — `LICENSE`: MIT © 2026 Daniel Losada for the template, with explicit exceptions for the EHU fonts (`assets/fonts/`), UPV/EHU and HEFA logos (`assets/images/`) and the CC BY-SA 3.0 APA CSL.
 - **Tooling** — workflow actions updated to Node 24 releases; `/handoff` skill moved to `.claude/skills/` (Claude Code only scans that folder).
 - **v1.0.0 (2026-10)** — initial single-document template.
 
@@ -99,7 +100,6 @@ Milestones (all v1.1.0, 2026-11-06):
 
 ## 5. In-Progress Discussions & Technical Decisions
 
-- **License.** README states MIT, but there is **no `LICENSE` file**. The EHUSans/EHUSerif fonts and the EHU logos are institutional assets, not necessarily MIT. Needs the user's decision (add `LICENSE` with an explicit exception for fonts/logos, or another licence).
 - **Word fidelity.** The DOCX was only checked through LibreOffice. Still unconfirmed in Microsoft Word: TOC and DOCPROPERTY fields refreshing after the "update fields" prompt, `titlePg` header ("work type | author") on chapter-opening pages, keep-with-next inside split callout cells. The DOCX is ~2 pages longer than the PDF (85 vs 83) because Word callouts are taller.
 - **Original working folder.** `/home/danloi/Descargas/gral-txantiloia/` is the pre-git copy (not a repository). It still contains `tmp/guia-del-alumnado-p3/` (the Practicum III example the HTML theme was ported from) and `docs/reference/`. Work now happens in the clone `/home/danloi/Descargas/gral-info/`.
 - **CI runner.** GitHub notes that `ubuntu-latest` moves to Ubuntu 26 from 2026-10-19; nothing to change unless the build breaks (could pin `ubuntu-24.04`).
@@ -108,11 +108,10 @@ Milestones (all v1.1.0, 2026-11-06):
 
 ## 6. Immediate Next Steps & Action Items
 
-1. **Decide and add a `LICENSE`** (see §5); keep README consistent.
-2. **Open the DOCX in Microsoft Word**, accept "update fields", and check TOC, running headers on chapter-opening pages and callout page breaks; adjust `templates/docx/*` if needed (re-run `build-reference-docx.py` after style changes).
-3. **Cover footer** (address · email · phone) wraps to two lines at 8 pt in the PDF; shorten or split deliberately in `templates/typst/hefa-cover.typ` and the DOCX cover in `hefa-docx.lua`.
-4. **HTML landing page** shows the book title plus the "Atariko atalak" heading and the `aurkibidea.qmd` guidance callout (mostly meaningful in the PDF); consider hiding them for HTML.
-5. **Running-header chapter text in DOCX** includes the number ("1. SARRERA"); the PDF shows the title only.
+1. **Open the DOCX in Microsoft Word**, accept "update fields", and check TOC, running headers on chapter-opening pages and callout page breaks; adjust `templates/docx/*` if needed (re-run `build-reference-docx.py` after style changes).
+2. **Cover footer** (address · email · phone) wraps to two lines at 8 pt in the PDF; shorten or split deliberately in `templates/typst/hefa-cover.typ` and the DOCX cover in `hefa-docx.lua`.
+3. **HTML landing page** shows the book title plus the "Atariko atalak" heading and the `aurkibidea.qmd` guidance callout (mostly meaningful in the PDF); consider hiding them for HTML.
+4. **Running-header chapter text in DOCX** includes the number ("1. SARRERA"); the PDF shows the title only.
 
 Edge cases to keep in mind:
 - Renaming `book.output-file` → also update the two hrefs in `book.sidebar.footer`.
