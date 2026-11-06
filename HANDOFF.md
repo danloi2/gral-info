@@ -41,7 +41,7 @@ Each section contains Basque guidance callouts (*Edukia*, *Luzera orientagarria*
 ```text
 ├── _quarto.yml                  # project: book; metadata.tfg (YAML anchors); book.chapters/sidebar/page-footer; formats; filters
 ├── index.qmd                    # Landing page: hidden "Atariko atalak" title + {{< include >}} of front-matter/*
-├── README.md · AGENTS.md · HANDOFF.md · LICENSE
+├── README.md · AGENTS.md · HANDOFF.md · LICENSE (plain MIT) · NOTICE.md (exceptions)
 ├── .github/workflows/publish.yml # quarto render → GitHub Pages (checkout v7, configure-pages v6, upload-pages-artifact v5, deploy-pages v5)
 ├── .claude/skills/handoff/SKILL.md   # /handoff skill (Claude Code); .agents/skills/handoff/SKILL.md is a symlink to it
 ├── front-matter/
@@ -92,7 +92,7 @@ Milestones (all v1.1.0, 2026-11-06):
 - **Page-break polish** — no orphan callout titles / bold subheadings (0 in PDF; 1 residual inside a DOCX callout body in LibreOffice only).
 - **Sample references** — Ainscow 2020, Booth & Ainscow 2011, Braun & Clarke 2006, Creswell & Poth 2018, Hernández-Sampieri & Mendoza 2018 (+ existing ONU 2015) cited in chapters 1–3; chapter 7 lists them in all formats; APA hanging indent in the PDF. Typo fixed: ERFERENTZIAK → ERREFERENTZIAK.
 - **Published** — public repo `danloi2/gral-info` (English README with author/ORCID, English About + topics), GitHub Pages via Actions; `docs/reference/` kept out of the repo by the user's choice.
-- **License** — `LICENSE`: MIT © 2026 Daniel Losada for the template, with explicit exceptions for the EHU fonts (`assets/fonts/`), UPV/EHU and HEFA logos (`assets/images/`) and the CC BY-SA 3.0 APA CSL.
+- **License** — `LICENSE`: plain MIT © 2026 Daniel Losada (so GitHub detects it); `NOTICE.md` lists the exceptions for the EHU fonts (`assets/fonts/`), UPV/EHU and HEFA logos (`assets/images/`) and the CC BY-SA 3.0 APA CSL.
 - **Tooling** — workflow actions updated to Node 24 releases; `/handoff` skill moved to `.claude/skills/` (Claude Code only scans that folder).
 - **v1.0.0 (2026-10)** — initial single-document template.
 
