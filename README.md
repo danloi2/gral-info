@@ -9,7 +9,7 @@
 
 > **Version:** `v1.1.0` (November 2026)  
 > **Author:** Daniel Losada — [ORCID 0000-0003-3842-7694](https://orcid.org/0000-0003-3842-7694) (HEFA, UPV/EHU)  
-> **License:** MIT  
+> **License:** [MIT](LICENSE) for the template; EHU fonts, logos and the APA CSL keep their own terms  
 > **Live example:** <https://danloi2.github.io/gral-info/> — web book with PDF and Word downloads
 
 Academic template for writing and typesetting **undergraduate theses (TFG / GRAL — *Gradu Amaierako Lana*)** at the **Faculty of Education, Philosophy and Anthropology (HEFA)** of the University of the Basque Country / Euskal Herriko Unibertsitatea (UPV/EHU).
@@ -331,6 +331,17 @@ To publish your own copy, enable **Settings → Pages → Source: GitHub Actions
 
 - **Comments are always in English** in every project file (`_quarto.yml`, `.typ` files, raw Typst blocks and `<!-- -->` comments in `.qmd` files, Lua filters, scripts). The thesis content (text, headings, captions and guidance boxes) stays in Basque.
 - Detailed instructions for AI assistants and contributors are in `AGENTS.md`; the current project state is in `HANDOFF.md`.
+
+---
+
+## License
+
+The template (configuration, Typst/SCSS/Lua/Python sources, chapters and documentation) is released under the [MIT License](LICENSE) © 2026 Daniel Losada. Excluded, and kept under their own terms:
+
+- **EHUSans / EHUSerif** fonts (`assets/fonts/`) and the **UPV/EHU and HEFA logos** (`assets/images/`): institutional assets, to be used under the UPV/EHU brand rules.
+- **APA 7 CSL style** (`bibliography/apa.csl`): CC BY-SA 3.0, from the Citation Style Language project.
+
+Theses written with the template belong to their authors.
 
 ---
 

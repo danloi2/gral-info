@@ -1,0 +1,51 @@
+MIT License
+
+Copyright (c) 2026 Daniel Losada
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--------------------------------------------------------------------------------
+EXCEPTIONS: THIRD-PARTY AND INSTITUTIONAL MATERIAL NOT COVERED BY THIS LICENSE
+--------------------------------------------------------------------------------
+
+The MIT License above applies to the template itself (Quarto configuration,
+Typst/SCSS/Lua/Python sources, Markdown chapters and documentation). It does
+NOT apply to the following files, which remain under their own terms:
+
+1. UPV/EHU corporate fonts — assets/fonts/
+   EHUSans and EHUSerif are corporate typefaces of the University of the
+   Basque Country (UPV/EHU). They are included only so that the template can
+   be rendered with the institutional typography. Their use is governed by
+   UPV/EHU's corporate identity rules; they may not be redistributed or reused
+   outside that scope under the MIT License.
+
+2. UPV/EHU and HEFA logos — assets/images/portada-logo.jpeg,
+   assets/images/hefa-logo-positive.svg, assets/images/hefa-bw-color.png
+   The logos of the University of the Basque Country (UPV/EHU) and of its
+   Faculty of Education, Philosophy and Anthropology (HEFA) are institutional
+   trademarks. They are included only for documents produced within UPV/EHU
+   and must be used according to the UPV/EHU brand manual.
+
+3. APA 7th edition citation style — bibliography/apa.csl
+   Distributed by the Citation Style Language project under the Creative
+   Commons Attribution-ShareAlike 3.0 License
+   (https://creativecommons.org/licenses/by-sa/3.0/), as stated in the file.
+
+Theses written with this template belong to their authors; the MIT License
+does not apply to the content students add to it.
