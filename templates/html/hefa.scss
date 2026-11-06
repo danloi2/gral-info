@@ -1,0 +1,223 @@
+/*-- scss:defaults --*/
+// ==============================================================================
+// HEFA - UPV/EHU THEME FOR THE HTML BOOK (layered on top of Bootstrap "cosmo")
+// ==============================================================================
+// Colours follow the EHU brand manual 2026 (`docs/reference/guia-marca-ehu.pdf`)
+// and match the palette in `templates/typst/hefa-style.typ`.
+// ==============================================================================
+
+// Corporate palette
+$uniberdea: #5FD790;      // Main corporate green
+$berde-leuna: #B0FBC1;    // Soft green
+$lurra: #EEECE9;          // Warm neutral (backgrounds)
+$egurra: #B1AB9F;         // Warm neutral (borders)
+$haritz-zuria: #FFFFFF;   // White
+$zerua: #7E8EFE;          // Sky blue
+$egunsentia: #FE8B66;     // Dawn
+$argia: #E4F568;          // Light
+$behe-lainoa: #C6ACF5;    // Mist
+$ehu-black: #000000;
+
+// Dark green for text links. UNIBERDEA on white is too light to read as text
+// (contrast ~1.8:1); this shade passes WCAG AA (~4.9:1).
+$ehu-green-dark: #078743;
+
+// Typography: EHUSans served as a web font (see @font-face below)
+$font-family-sans-serif: "EHUSans", "Helvetica Neue", Arial, sans-serif;
+$font-family-base: $font-family-sans-serif;
+$headings-font-family: $font-family-sans-serif;
+$headings-font-weight: 700;
+
+// Links
+$link-color: $ehu-green-dark;
+$link-hover-color: $ehu-black;
+
+// Sidebar: UNIBERDEA background with black text, as in EHU web material
+$sidebar-bg: $uniberdea;
+$sidebar-fg: $ehu-black;
+$sidebar-hl: $ehu-black;
+
+// Callout accents by type
+$callout-color-note: $uniberdea;
+$callout-color-tip: $zerua;
+$callout-color-important: $behe-lainoa;
+$callout-color-warning: $argia;
+$callout-color-caution: $egunsentia;
+
+// Page footer
+$footer-bg: $lurra;
+
+/*-- scss:rules --*/
+
+// ------------------------------------------------------------------------------
+// 1. WEB FONTS
+// ------------------------------------------------------------------------------
+// Paths are relative to the project root: Quarto resolves each url(), copies
+// the font next to the compiled CSS and rewrites the reference.
+@font-face {
+  font-family: "EHUSans";
+  src: url("assets/fonts/EHUSans.otf") format("opentype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "EHUSans";
+  src: url("assets/fonts/EHUSans-Bold.otf") format("opentype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "EHUSans";
+  src: url("assets/fonts/EHUSans-Italic.otf") format("opentype");
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+}
+
+body {
+  line-height: 1.65;
+}
+
+// ------------------------------------------------------------------------------
+// 2. SIDEBAR (logo, chapter list, download buttons)
+// ------------------------------------------------------------------------------
+div.sidebar.sidebar-navigation.rollup.quarto-sidebar-toggle-contents,
+nav.sidebar.sidebar-navigation:not(.rollup) {
+  background-color: $sidebar-bg;
+  color: $sidebar-fg;
+}
+
+// Official positive logo, kept on its own white background
+.sidebar-logo {
+  max-height: 80px;
+  width: auto;
+  margin-bottom: 0.5rem;
+  border-radius: 4px;
+}
+
+#quarto-sidebar a,
+#quarto-sidebar .sidebar-title a,
+#quarto-sidebar .sidebar-menu-container * {
+  color: $sidebar-fg !important;
+}
+
+#quarto-sidebar a:hover,
+#quarto-sidebar a:focus-visible {
+  background-color: rgba($haritz-zuria, 0.55);
+  border-radius: 0.25rem;
+}
+
+// Current chapter
+#quarto-sidebar .sidebar-link.active {
+  font-weight: 700;
+  border-left: 3px solid $sidebar-hl;
+  padding-left: 0.4rem;
+}
+
+// Download buttons (see `book.sidebar.footer` in _quarto.yml): small white
+// icons side by side, label only as tooltip / aria-label
+.quarto-sidebar-footer .sidebar-footer-item {
+  padding: 0.6rem 0.5rem 0.4rem;
+  border-top: 1px solid rgba($haritz-zuria, 0.6);
+}
+
+// `#quarto-sidebar` prefix: must beat the generic sidebar link colour above
+#quarto-sidebar .hefa-downloads,
+.hefa-downloads {
+  // Pandoc wraps both links in one <p>
+  p {
+    display: flex;
+    flex-direction: row;
+    gap: 0.75rem;
+    margin: 0;
+  }
+
+  .hefa-download {
+    display: inline-flex;
+    font-size: 1.35rem;
+    line-height: 1;
+    color: $haritz-zuria !important;
+    text-decoration: none;
+
+    &:hover,
+    &:focus-visible {
+      color: $ehu-black !important;
+      background-color: transparent !important;
+    }
+  }
+}
+
+// ------------------------------------------------------------------------------
+// 3. HEADINGS: chapter titles get the same UNIBERDEA rule as the PDF
+// ------------------------------------------------------------------------------
+main.content h1.title,
+main.content > section.level1 > h1 {
+  padding-bottom: 0.4rem;
+  border-bottom: none;
+  background-image: linear-gradient($uniberdea, $uniberdea);
+  background-size: 3.5rem 4px;
+  background-position: left bottom;
+  background-repeat: no-repeat;
+}
+
+main.content h2 {
+  border-bottom: 1px solid $lurra;
+}
+
+// Right-hand "on this page" list
+#TOC a.active,
+#TOC a.active:hover {
+  border-left-color: $uniberdea !important;
+  color: $ehu-black !important;
+  font-weight: 700;
+}
+
+// ------------------------------------------------------------------------------
+// 4. FIGURE AND TABLE CAPTIONS (APA 7): bold label, italic title below
+// ------------------------------------------------------------------------------
+// `templates/html/caption-labels.html` wraps the label in a span; the line
+// break comes from `crossref.title-delim: "<br>"` (HTML format only).
+.quarto-float-caption {
+  font-style: italic;
+  text-align: left !important;   // Quarto centres captions by default
+}
+
+.quarto-caption-label {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 700;
+}
+
+// ------------------------------------------------------------------------------
+// 5. TABLES (APA 7): horizontal rules only
+// ------------------------------------------------------------------------------
+main.content table.table {
+  border-top: 1.5px solid $ehu-black;
+  border-bottom: 1.5px solid $ehu-black;
+
+  > :not(caption) > * > * {
+    border-bottom-width: 0;   // no rules between body rows
+  }
+
+  > thead > tr > th {
+    border-bottom: 1px solid $ehu-black;
+    font-weight: 700;
+  }
+}
+
+// ------------------------------------------------------------------------------
+// 6. CALLOUTS AND BLOCK QUOTES
+// ------------------------------------------------------------------------------
+.callout {
+  border-radius: 6px;
+}
+
+blockquote {
+  border-left: 3px solid $uniberdea;
+  padding-left: 1rem;
+  color: inherit;
+}

@@ -1,0 +1,418 @@
+# SARRERA {#sec-sarrera}
+
+::: {.callout-note}
+## Edukia: Sarrera
+
+Ikerketaren aurkezpena, testuingurua eta justifikazioa. Atal honetan ikerketaren gaia aurkezten da, arazoaren garrantzia azaltzen da, ikerketaren beharra arrazoitzen da eta lanaren helburu nagusiak aurkezten dira. Era berean, lanaren egitura orokorra labur deskribatzen da.
+
+**Luzera orientagarria:** Lan osoaren % 10–15 (% 12 inguru).
+
+**Aditz-denborak (APA 7):** Oraina, nagusiki.
+
+**Adibidea:** Ikerketa honek hezkuntza inklusiboaren inguruko irakasleen pertzepzioak aztertzen ditu. Gaur egun, aniztasunaren kudeaketa hezkuntzaren erronka nagusietako bat da, eta horrek gai honen azterketa justifikatzen du.
+
+**Egituraren deskribapena (atalaren amaieran):** Sarreraren azken paragrafoan lanaren egitura labur aurkeztea gomendatzen da.
+
+**Adibidea:** Lan hau sei atal nagusitan egituratzen da. Lehenik, marko teorikoan ikerketaren oinarri kontzeptualak eta aurreko ikerketak aurkezten dira. Ondoren, metodoaren atalean ikerketaren diseinua, parte-hartzaileak eta datuak biltzeko eta aztertzeko prozedurak deskribatzen dira. Jarraian, emaitza nagusiak aurkezten dira. Horien interpretazioa eztabaidaren atalean garatzen da, eta, azkenik, ondorio nagusiak eta etorkizuneko ikerketa-ildoak jasotzen dira.
+
+**Adimen Artifizialaren erabilerari buruzko aipamena (sarreraren amaieran):** Gradu Amaierako Lan hau prestatzean erabilitako adimen artifizial sortzaileko tresnen erabileraren deskribapena eta xehetasunak X. Eranskinean (AAren Erabileraren Adierazpena) jasotzen dira.
+
+**Aipu bibliografikoak:** Gomendagarriak dira, eta normalean nahitaezkoak 1.1 eta 1.2 azpiataletan.
+:::
+
+
+{{< lipsum 1>}}
+
+## Ikerketaren Gaia eta Testuinguraketa {#sec-gaia-testuinguraketa}
+
+::: {.callout-note}
+## Edukia: Gaiaren aurkezpena eta testuingurua
+
+Atal honetan ikerketaren gaia aurkeztu, testuinguruan kokatu eta haren garrantzia azaldu behar dira. Horretarako, ikertu nahi den fenomenoa deskribatuko da, gaia aukeratzeko arrazoi pertsonalak, akademikoak eta profesionalak azalduko dira, eta gaiaren garrantzia justifikatuko da egungo hezkuntza-testuinguruan. Era berean, aztergaiaren elementu nagusiak, parte hartzen duten eragileak eta ikerketaren kokapen espazial eta tenporala zehazten hasiko dira.
+
+**Luzera orientagarria:** % 3–5.
+
+**Aditz-denborak (APA 7):** Oraina.
+
+**Galdera orientagarriak:**
+- Zein gai, arazo edo egoera aztertu nahi dut?
+- Zergatik aukeratu dut gai hau?
+- Zein lotura du nire interes pertsonal, akademiko edo profesionalekin?
+- Zein da gai honen garrantzia gaur egungo hezkuntza-testuinguruan?
+- Nortzuk dira azter daitezkeen eragile nagusiak?
+- Zer elementuk osatzen dute ikertu nahi den fenomenoa?
+- Non eta noiz gertatzen da fenomeno hori?
+- Zein aurrekari edo esperientzia ezagun daude gai horren inguruan?
+- Nola erlazionatzen dira gaia osatzen duten elementuak eta eragileak?
+- Zergatik da interesgarria gaia hezkuntza-komunitatearentzat?
+- Zein lotura du Gradu Amaierako Lanaren lan-ildoekin?
+
+**Hezkuntza-arloko lan-ildoak:**
+- Hezkuntza-eragileak.
+- Irakasle-identitatea.
+- Irakaskuntza- eta ikaskuntza-ekintzak.
+- Hezkuntza-tresnak.
+- Sortzen ari diren ildo berriak.
+
+**Adibidea:** Gaur egun, hezkuntza inklusiboa hezkuntza-sistemen erronka nagusietako bat da. Ikastetxeek gero eta aniztasun handiagoari erantzun behar diote, eta horrek irakasleen prestakuntza eta jardun profesionala berrikustea eskatzen du. Lan honek Lehen Hezkuntzako irakasleen pertzepzioak aztertzen ditu, hezkuntza inklusiboaren garapenean duten eginkizuna hobeto ulertzeko.
+
+**Aipu bibliografikoak:** Nahitaezkoak.
+:::
+
+Gaur egungo hezkuntza-sistemen erronka nagusietako bat ikasle guztien presentzia, partaidetza eta ikaskuntza bermatzea da [@ainscow2020], eta helburu hori Garapen Jasangarrirako 2030 Agendarekin lotuta dago [@onu2015].
+
+{{< lipsum 1>}}
+
+::: {.callout-tip}
+### Garapen Jasangarrirako Helburuekiko (JGH / ODS) lotura eta konpromiso etikoa
+
+Irailaren 28ko 822/2021 Dekretuak ezarritako printzipioei eta HEFAko gidalerroei jarraituz, lan honek Garapen Jasangarrirako Helburuekin (JGH) lotura zuzena du:
+
+- **4. JGH: Kalitatezko hezkuntza.** Hezkuntza inklusiboa, bidezkoa eta kalitatezkoa bermatzea da lanaren ardatza, ikasle guztien parte-hartzea eta ikaskuntza bultzatuz.
+- **5. JGH: Genero berdintasuna.** Hizkera inklusiboa eta rol estereotipatuen deseraikuntza txertatu dira esku-hartze didaktikoaren jarduera guztietan.
+- **10. JGH: Desberdintasunak murriztea.** Ikasle guztiei aukera-berdintasuna bermatzea irisgarritasun kognitibo eta metodologikoaren bidez.
+:::
+
+## Problemaren Planteamendua eta Bere Justifikazioa {#sec-problemaren-planteamendua}
+
+::: {.callout-note}
+## Edukia: Ikerketa-problemaren definizioa eta justifikazioa
+
+Atal honetan ikerketa-problema definitu eta ikerketa egitearen beharra justifikatu behar dira. Ikerketa-arazoa, oro har, literaturaren berrikuspenean identifikatutako hutsuneetan, kontraesanetan, sistematizatu gabeko ezagutzetan edo behar bezala aztertu ez diren eremuetan oinarritzen da. Helburua ez da soilik gai interesgarri bat aurkeztea, baizik eta ikerketa egitea zergatik den beharrezkoa eta garrantzitsua argudiatzea.
+
+**Luzera orientagarria:** % 3–4.
+
+**Aditz-denborak (APA 7):** Oraina eta orain perfektua.
+
+**Aipu bibliografikoak:** Nahitaezkoak.
+:::
+
+::: {.callout-note}
+## Galdera orientagarriak
+
+- Zein da ikertu nahi dudan arazo zehatza?
+- Zer hutsune, kontraesan edo ezagutza-falta identifikatu dira literaturan?
+- Zergatik da beharrezkoa arazo hori ikertzea?
+- Zein ekarpen egin diezaioke ikerketa honek ezagutzaren garapenari?
+- Zein onura izan ditzake hezkuntza-praktikarentzat edo hezkuntza-politikarentzat?
+- Zein lotura du arazo honek gaur egungo hezkuntza-erronkekin?
+:::
+
+::: {.callout-note}
+## Ikerketa-problema on baten ezaugarriak (Jorrín et al., 2021)
+
+**1. Zehaztasuna**
+
+- Modu argian formulatuta dago.
+- Ez du anbiguotasunik sortzen.
+- Aztergaiaren mugak identifikatzen ditu.
+
+**2. Ebazgarritasuna**
+
+- Eskura dauden baliabideekin iker daiteke.
+- Gradu Amaierako Lan baten denboran eta testuinguruan gara daiteke.
+- Datuak eskuratzeko aukera erreala dago.
+
+**3. Garrantzia**
+
+- Gizartearen edo hezkuntza-komunitatearen behar bati erantzuten dio.
+- Ezagutza zientifikoan dagoen hutsune bati lotuta dago.
+- Ekarpen teoriko edo praktiko esanguratsua egin dezake.
+:::
+
+::: {.callout-note}
+## Ikerketa-problemaren justifikazio posibleak
+
+- Gailentzen ari den praktika edo fenomeno bat ezagutzea eta ulertzea.
+- Teoria bat egiaztatzea, osatzea edo zalantzan jartzea.
+- Ezagutza zientifikoa zabaltzea edo sakontzea.
+- Errealitate jakin baten ulermena handitzea.
+- Aurrerapen metodologikoak egitea.
+- Gaur egungo hezkuntza-arazo edo erronka sozialekin lotzea.
+- Praktika, programa edo politika jakin bat testuinguru zehatz batean ebaluatzea.
+:::
+
+::: {.callout-note}
+## Adibidea: ikerketa-problemaren justifikazioa
+
+Azken urteetan hezkuntza inklusiboaren inguruko ikerketak ugaritu dira, eta hainbat lanek irakasleen prestakuntzaren garrantzia azpimarratu dute. Hala ere, oraindik ere ez dago nahikoa ezagutzarik Lehen Hezkuntzako irakasleek inklusioaren inguruan dituzten pertzepzioei buruz testuinguru jakin batzuetan. Hutsune horrek ikerketa hau justifikatzen du; izan ere, lortutako emaitzek irakasleen prestakuntza-programak hobetzen lagun dezakete.
+
+**Aipu bibliografikoak:** Nahitaezkoak.
+:::
+
+{{< lipsum 1>}}
+
+## Ikerketaren Xedea {#sec-xedea}
+
+::: {.callout-note}
+## Edukia: Ikerketaren helburua
+
+Ikerketaren asmo edo helburu nagusia modu labur eta argian adierazten da. Xedeak ikerketaren fenomeno nagusia, egin nahi den ekintza (identifikatzea, ulertzea, esploratzea, azaltzea, garatzea edo deskubritzea) eta ikerketaren azken helburua jasotzen ditu. Halaber, komenigarria da erabiliko den ikerketa-eredua edo diseinua aipatzea.
+
+**Luzera orientagarria:** % 1 baino gutxiago.
+
+**Aditz-denborak (APA 7):** Oraina.
+
+**Idazteko eredua:**
+
+Aurkezten dugun ikerketaren xedea da *(aztertutako fenomeno zentrala edo ikerketa-gaia)* *(identifikatzea, ulertzea, esploratzea, azaltzea, garatzea edo deskubritzea)*, *(ikerketaren helburu nagusia)* deskribatzeko edo ulertzeko helburuarekin, *(erabiliko den ikerketa-eredua edo diseinua)* baten bidez.
+
+**Adibideak:**
+
+- Aurkezten dugun ikerketaren xedea da Lehen Hezkuntzako irakasleen hezkuntza inklusiboari buruzko pertzepzioak ulertzea, inklusio-praktiketan eragina duten faktore nagusiak identifikatzeko helburuarekin, kasu-azterketa kualitatibo baten bidez.
+- Aurkezten dugun ikerketaren xedea da ikasleen motibazio akademikoa esploratzea, ikaskuntza-prozesuan eragina duten elementuak deskribatzeko helburuarekin, diseinu misto baten bidez.
+- Aurkezten dugun ikerketaren xedea da adimen artifizialaren erabilera hezkuntza-testuinguruan aztertzea, irakasleen erabilera-ohiturak eta pertzepzioak identifikatzeko helburuarekin, inkesta bidezko ikerketa kuantitatibo baten bidez.
+
+**Aipu bibliografikoak:** Ez.
+:::
+
+{{< lipsum 1>}}
+
+## Ikerketa Galderak {#sec-galderak}
+
+::: {.callout-note}
+## Edukia: Ikerketa-galderak
+
+Atal honetan ikerketak erantzun nahi dituen galdera nagusiak formulatzen dira. Ikerketa-galderek ikerketa-prozesu osoa gidatzen dute; horregatik, argiak, zehatzak, ikergarriak eta ikerketaren xedearekin koherenteak izan behar dute. Galdera horiek ikerketaren norabidea zehazten dute eta ondorengo helburuak, metodoa, datu-bilketa eta analisia orientatzen dituzte.
+
+**Luzera orientagarria:** % 1 baino gutxiago.
+
+**Aditz-denborak (APA 7):** Oraina.
+
+**Galdera on baten ezaugarriak**
+
+Ikerketa-galdera batek argia eta zehatza izan behar du, ikerketaren xedearekin eta helburuekin bat etorri behar du, datuen bidez erantzun ahal izan behar da eta Gradu Amaierako Lan baten denbora eta baliabideekin ikertu ahal izan behar da. Anbiguoak diren formulazioak eta bai/ez erantzun soil batera mugatzen diren galdera dikotomikoak saihestu behar dira.
+
+**Galderen formulazioaren bilakaera**
+
+- **Oinarrizko galdera:** *Zer dira IKTak?*
+- **Galdera aurreratua:** *Nola susta daiteke IKTen erabilera Lehen Hezkuntzako geletan?*
+- **Galdera jakitua:** *Zer ekarpen egin dezake mikroblogging baliabideen erabilerak ingelesaren ikaskuntzan?*
+
+**Aipu bibliografikoak:** Ez.
+:::
+
+::: {.callout-note}
+## Ikerketa kuantitatiboetako adibideak
+
+**Diseinu deskriptiboa**
+
+Fenomeno baten ezaugarriak edo maiztasunak deskribatzea du helburu.
+
+*Zenbat ordu ematen dituzte gazteek egunean sare sozialak erabiltzen?*
+
+**Diseinu korrelazionala**
+
+Bi aldagai edo gehiagoren arteko erlazioak aztertzen ditu.
+
+*Zer harreman dago ikasketa-orduen eta azterketa-kalifikazioen artean?*
+
+**Diseinu konparatzaile-kausala**
+
+Taldeen arteko desberdintasunak aztertzen ditu.
+
+*Zer desberdintasun daude erresilientzia-mailan sexuaren edo familia-egituraren arabera?*
+
+**Diseinu kuasi-esperimentala**
+
+Esku-hartze baten eragina aztertzen du, kontrol-talde batekin alderatuz.
+
+*Zer eragin du autoestimu-tailerrak autoestimu-mailan, prestakuntza hori jaso ez duen talde batekin alderatuta?*
+
+**Diseinu esperimentala**
+
+Aldagaiak modu kontrolatuan manipulatzen ditu.
+
+*Zer eragin du autoestimu-tailerrak ikasleen autoestimu-mailan Solomon diseinua aplikatuta?*
+
+**Aipu bibliografikoak:** Ez.
+:::
+
+::: {.callout-note}
+## Ikerketa kualitatiboetako adibideak
+
+**Narratiba**
+
+Pertsonen bizipenak, istorioak eta esperientziak aztertzen ditu.
+
+*Zein dilema, arazo eta tentsio aurkitzen dituzte irakasle hasiberriek beren lehen urteetan?*
+
+**Fenomenologia**
+
+Fenomeno baten inguruan partekatzen diren bizipenak eta esanahiak ulertu nahi ditu.
+
+*Nola bizi dute irakasleek ikastetxe berri batera iristeak dakarren akulturazio-prozesua?*
+
+**Etnografia**
+
+Talde, komunitate edo erakunde baten kultura eta gizarte-harremanak aztertzen ditu.
+
+*Ikastetxeetan, irakasle hasiberrien etorreraren aurrean, zein kultura-, gizarte- eta lanbide-estrategia ezartzen dira?*
+
+**Ikerketa-ekintza**
+
+Praktika profesionala aztertu eta hobetzea bilatzen du.
+
+*Nire ikastetxean irakasle hasiberrien integrazioa errazteko ezartzen diren laguntza-estrategiak funtzionatzen ari al dira?*
+
+**Kasu-azterketa**
+
+Kasu jakin baten funtzionamendua, berezitasunak edo tentsio nagusiak aztertzen ditu.
+
+*Funtzionatzen al dute EAEn ezartzen diren maisu hasiberriei laguntzeko plan instituzionalek?*
+
+**Grounded Theory**
+
+Gutxi aztertutako fenomeno edo testuinguruetan teoria berriak eraikitzea du helburu.
+
+*Zein prozesuren bidez eraikitzen dute irakasle hasiberriek beren identitate profesionala lehen urteetan?*
+
+**Aipu bibliografikoak:** Ez.
+:::
+
+::: {.callout-note}
+## Ohar metodologikoa
+
+Ikerketa-galderen formulazioa erabilitako metodologiari lotuta egon behar da.
+
+Ikerketa kuantitatiboetan, ohikoa da galderak aldagaietan, erlazioetan, desberdintasunetan edo esku-hartzeen eraginkortasunean oinarritzea. Horregatik, sarritan hainbat ikerketa-galdera formulatzen dira, gero hipotesi edo proposizio teorikoekin lotuko direnak.
+
+Ikerketa kualitatiboetan, aldiz, gomendagarria izaten da lehenik ikerketa-galdera nagusi bat formulatzea eta, ondoren, galdera hori zehazten duten azpigaldera batzuk planteatzea. Horrela, fenomenoaren ulermena modu progresiboan eraiki daiteke eta ikerketaren koherentzia bermatu.
+
+Adibidez, kasu-azterketa batean, ikerketa-galdera nagusia honakoa izan daiteke:
+
+*Nola ulertzen eta garatzen da hezkuntza inklusioa ikastetxe jakin batean?*
+
+Galdera nagusi horretatik abiatuta, hainbat azpigaldera plantea daitezke:
+
+- *Zein dira irakasleen pertzepzio nagusiak?*
+- *Zein zailtasun identifikatzen dituzte?*
+- *Zein estrategia erabiltzen dira inklusioa sustatzeko?*
+
+Fenomenologia, etnografia, narratiba edo ikerketa-ekintza bezalako tradizioetan, galderek normalean *nola*, *zer esanahi*, *zer esperientzia* edo *zer prozesu* motako formulazioak izaten dituzte; izan ere, helburua ez da fenomeno bat neurtzea, baizik eta hura ulertzea, interpretatzea eta testuinguruan kokatzea.
+
+Grounded Theory tradizioan, berriz, ikerketa-galderak hasieran zabalagoak eta malguagoak izan ohi dira. Kasu horietan, galdera ikerketaren garapenarekin batera fintzen da, datuetatik abiatuta azalpen edo teoria berriak eraikitzea baita helburu nagusia.
+
+**Adibidea**
+
+Ikerketa honen galdera nagusia honako hau da:
+
+*Nola ulertzen dute Lehen Hezkuntzako irakasleek hezkuntza inklusiboa eta zer faktorek eragiten dute haren aplikazioan?*
+
+**Aipu bibliografikoak:** Ez.
+:::
+
+{{< lipsum 1>}}
+
+## Ikerketaren Helburuak {#sec-helburuak}
+
+::: {.callout-note}
+## Edukia: Ikerketaren helburuak
+
+Atal honetan ikerketaren helburuak formulatzen dira, aurretik planteatutako ikerketa-galderei erantzuteko asmoz. Helburuek ikerketak zer lortu nahi duen adierazten dute eta ikerketa-prozesu osoaren gida dira. Lehenik, helburu orokor bat formulatzen da, ikerketaren asmo nagusia jasotzen duena; ondoren, helburu espezifikoak aurkezten dira, helburu orokorra garatzeko behar diren urrats edo alderdi zehatzak adierazten dituztenak.
+
+**Luzera orientagarria:** % 1-2.
+
+**Aditz-denborak (APA 7):** Infinitiboa (-tea, -tzea).
+
+**Helburuak formulatzeko irizpideak**
+
+Helburuak ikerketa-galderekin eta ikerketaren xedearekin koherenteak izan behar dira. Modu argian eta zehatzean idatzi behar dira, ekintza adierazten duten aditzekin.
+
+**Gomendatutako egitura:**
+
+**Edukia + Aditza (infinitiboan) + Testuingurua**
+
+**Adibideak:**
+
+- *Lehen Hezkuntzako irakasleen pertzepzioak aztertzea hezkuntza inklusiboaren testuinguruan.*
+- *Irakasleek identifikatzen dituzten zailtasunak deskribatzea ikasgela inklusiboetan.*
+
+**Helburuetarako aditz egokiak**
+
+Ikerketaren izaeraren arabera, honako aditz hauek erabil daitezke:
+
+*Identifikatzea, deskribatzea, aztertzea, esploratzea, ulertzea, interpretatzea, azaltzea, alderatzea, ebaluatzea, baloratzea, ezagutzea, karakterizatzea, garatzea, proposatzea, diseinatzea, erlazionatzea, sakontzea.*
+
+**Aipu bibliografikoak:** Ez.
+:::
+
+::: {.callout-note}
+## Helburu orokorrak eta espezifikoak
+
+Helburu orokorrak ikerketaren xede nagusia adierazten du eta abstrakzio-maila handiagoa du.
+
+**1. Helburu orokorra**
+
+Lehen Hezkuntzako irakasleen hezkuntza inklusiboari buruzko pertzepzioak aztertzea ikastetxe jakin baten testuinguruan.
+
+**B. Helburu espezifikoak**
+
+Helburu espezifikoek helburu orokorra garatzen dute eta ikerketaren alderdi zehatzak jasotzen dituzte.
+
+**1. helburu espezifikoa**
+
+Irakasleek hezkuntza inklusiboari buruz dituzten kontzepzio nagusiak identifikatzea.
+
+**2. helburu espezifikoa**
+
+Hezkuntza inklusiboaren garapenean eragina duten faktoreak deskribatzea.
+
+**3. helburu espezifikoa**
+
+Irakasleek identifikatzen dituzten zailtasunak aztertzea.
+
+**4. helburu espezifikoa**
+
+Erabiltzen diren inklusio-estrategiak ezagutzea.
+
+**5. helburu espezifikoa**
+
+Prestakuntza-beharrak identifikatzea hezkuntza inklusiboaren esparruan.
+
+**Aipu bibliografikoak:** Ez.
+:::
+
+::: {.callout-note}
+## Ikerketa-galderen eta helburuen arteko lotura
+
+Ikerketa-galdera bakoitzak gutxienez helburu batekin lotuta egon behar du. Galderak ikerketak zer jakin nahi duen adierazten du; helburuak, berriz, hori lortzeko zer egingo den.
+
+**Adibidea:**
+
+**Ikerketa-galdera:**
+
+*Nola ulertzen dute irakasleek hezkuntza inklusioa?*
+
+**Helburu espezifikoa:**
+
+*Irakasleek hezkuntza inklusiboari buruz dituzten kontzepzio nagusiak identifikatzea.*
+
+**Ohar metodologikoa**
+
+Ikerketa kuantitatiboetan helburuak maiz lotzen dira aldagaiak deskribatzera, alderatzera edo erlazionatzera. Ikerketa kualitatiboetan, berriz, ohikoagoa da fenomenoak ulertzera, esanahiak interpretatzera edo esperientziak esploratzera bideratutako helburuak formulatzea.
+
+Kasu-azterketetan, fenomeno baten funtzionamendua testuinguru jakin batean ulertzea izaten da helburu nagusia.
+
+**Aipu bibliografikoak:** Ez.
+:::
+
+::: {.callout-note}
+## Adibidea: Hezkuntza inklusiboa Lehen Hezkuntzan
+
+**Helburu orokorra**
+
+Lehen Hezkuntzako irakasleen hezkuntza inklusiboari buruzko pertzepzioak ulertzea ikastetxe jakin baten testuinguruan.
+
+**Helburu espezifikoak**
+
+1. Irakasleek hezkuntza inklusiboari buruz dituzten kontzepzioak identifikatzea.
+2. Inklusio-praktiken garapenean eragina duten faktoreak aztertzea.
+3. Irakasleek hautemandako zailtasunak deskribatzea.
+4. Erabiltzen diren estrategia inklusiboak ezagutzea.
+5. Etorkizuneko hobekuntza-proposamenak identifikatzea.
+
+**Aipu bibliografikoak:** Ez.
+:::
+
+{{< lipsum 1>}}

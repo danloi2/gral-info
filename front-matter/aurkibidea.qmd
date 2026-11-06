@@ -1,0 +1,96 @@
+<!-- ======================================================================= -->
+<!-- FRONT MATTER: AURKIBIDEA (TABLE OF CONTENTS)                          -->
+<!-- ======================================================================= -->
+
+```{=typst}
+// ==============================================================================
+// RUNNING HEADERS AND FOOTERS (from the table of contents onwards)
+// ==============================================================================
+// Page numbering restarts at 1 here. The chapter title shown in the header is
+// the current level-1 heading (or "Aurkibidea" before the first chapter).
+
+#counter(page).update(1)
+
+#set page(
+  header: context {
+    let p = counter(page).get().first()
+    let cur-page = here().page()
+    let page-headings = query(heading.where(level: 1)).filter(h => h.location().page() == cur-page)
+    let is-chapter-start = page-headings.len() > 0
+    let chap = if is-chapter-start {
+      page-headings.first().body
+    } else {
+      let prev-headings = query(selector(heading.where(level: 1)).before(here()))
+      if prev-headings.len() > 0 {
+        prev-headings.last().body
+      } else {
+        [Aurkibidea]
+      }
+    }
+
+    if calc.even(p) {
+      // Even page: chapter title (left) | work type (right)
+      grid(
+        columns: (1fr, auto),
+        align(left)[#text(size: 8.5pt, fill: rgb("#555555"), font: "EHUSans")[#chap]],
+        align(right)[#text(size: 8.5pt, fill: rgb("#555555"), font: "EHUSans")[#lan-mota]]
+      )
+    } else if is-chapter-start {
+      // Odd page where a chapter starts: work type (left) | author (right)
+      grid(
+        columns: (auto, 1fr),
+        align(left)[#text(size: 8.5pt, fill: rgb("#555555"), font: "EHUSans")[#lan-mota]],
+        align(right)[#text(size: 8.5pt, fill: rgb("#555555"), font: "EHUSans")[#egilea]]
+      )
+    } else {
+      // Other odd pages: work type (left) | chapter title (right)
+      grid(
+        columns: (auto, 1fr),
+        align(left)[#text(size: 8.5pt, fill: rgb("#555555"), font: "EHUSans")[#lan-mota]],
+        align(right)[#text(size: 8.5pt, fill: rgb("#555555"), font: "EHUSans")[#chap]]
+      )
+    }
+    // Thin UNIBERDEA rule under the header
+    v(0.3em)
+    line(length: 100%, stroke: 0.5pt + rgb("#5FD790"))
+  },
+  footer: context {
+    let p = counter(page).get().first()
+    if calc.even(p) {
+      // Even page: page number on the outer (left) side
+      align(left)[#text(size: 9pt, weight: "bold", font: "EHUSans")[#p]]
+    } else {
+      // Odd page: page number on the outer (right) side
+      align(right)[#text(size: 9pt, weight: "bold", font: "EHUSans")[#p]]
+    }
+  }
+)
+
+// ==============================================================================
+// TABLE OF CONTENTS (AURKIBIDEA), headings down to level 3
+// ==============================================================================
+#outline(title: "Aurkibidea", depth: 3)
+```
+
+<!-- WORD (DOCX): placeholder replaced by `templates/docx/hefa-docx.lua` with  -->
+<!-- a section break (no running header before this point) and a Word TOC.    -->
+::: {.content-visible when-format="docx"}
+::: {.hefa-docx-toc}
+:::
+:::
+
+::: {.callout-note}
+## Edukia: Aurkibidea
+
+Lanaren egitura osoa erakusten du, kapituluak eta azpikapituluak dagozkien orrialde-zenbakiekin adierazita.
+
+**Luzera orientagarria:** Ez da zenbatzen.
+
+**Aditz-denborak (APA 7):** Ez dagokio.
+
+**Adibidea:** Ez dagokio.
+
+**Aipu bibliografikoak:** Ez.
+:::
+
+

@@ -1,0 +1,73 @@
+<!-- ======================================================================= -->
+<!-- FRONT MATTER: TRILINGUAL ABSTRACTS                                      -->
+<!-- HEFA requires an abstract in Basque, Spanish and English, each with     -->
+<!-- its keywords. PDF: titles via #prelim-heading, one abstract per page.   -->
+<!-- ======================================================================= -->
+
+```{=typst}
+#prelim-heading("Laburpena")
+```
+
+::: {.content-visible unless-format="typst"}
+## Laburpena {.prelim}
+:::
+
+::: {.callout-note}
+## Edukia: Laburpena
+
+Lanaren sintesi informatzaile eta egituratua. Paragrafo bakarrean idatzi behar da, IMRD egiturari jarraituz: Sarrera (justifikazioa, garrantzia eta helburua), Metodoa, Emaitzak eta Ondorio nagusia.
+
+**Luzera orientagarria:** Gehienez 100 hitz.
+
+**Aditz-denborak (APA 7):** Oraina (justifikazioa, helburua eta ondorioa) eta iragana (metodoa eta emaitzak).
+
+**Adibidea:** Ikerketa honek hezkuntza inklusiboaren inguruko irakasleen pertzepzioak aztertzen ditu. Horretarako, kasu-azterketa kualitatibo bat egin zen eta datuak elkarrizketa erdi-egituratuen bidez bildu ziren. Emaitzek erakutsi zuten prestakuntza espezifikoak eragin positiboa zuela inklusio-praktiketan. Ondorio nagusi gisa, prestakuntza etengabea funtsezko elementua dela ondorioztatzen da.
+
+**Aipu bibliografikoak:** Ez.
+:::
+
+{{< lipsum 1>}}
+
+::: {.callout-note}
+## Edukia: Gako-hitzak
+
+Lanaren gai nagusia identifikatzen duten termino normalizatuak. Laburpenaren azpian kokatzen dira eta onartutako tesauro batean oinarritu behar dira.
+
+**Luzera orientagarria:** Gutxienez 3 eta gehienez 5 gako-hitz.
+
+**Aditz-denborak (APA 7):** Ez dagokio.
+
+**Adibidea:** Hezkuntza inklusiboa; Irakasleen prestakuntza; Hezkuntza-premia bereziak.
+
+**Oharrak:** Gako-hitzak UNESCOren Tesauroan edo ERIC tesauroan jasotako terminoetan oinarritzea gomendatzen da.
+
+**Aipu bibliografikoak:** Ez.
+:::
+
+**Gako-hitzak:** Irakasle-identitatea, Metodologia berritzaileak, Haur Hezkuntza, Ikaskuntza kooperatiboa, Esku-hartzea.
+
+```{=typst}
+#pagebreak()
+#prelim-heading("Resumen")
+```
+
+::: {.content-visible unless-format="typst"}
+## Resumen {.prelim}
+:::
+
+{{< lipsum 1>}}
+
+**Palabras clave:** Identidad docente, Metodologías innovadoras, Educación Infantil, Aprendizaje cooperativo, Intervención didáctica.
+
+```{=typst}
+#pagebreak()
+#prelim-heading("Abstract")
+```
+
+::: {.content-visible unless-format="typst"}
+## Abstract {.prelim}
+:::
+
+{{< lipsum 1>}}
+
+**Keywords:** Teacher identity, Innovative methodologies, Early Childhood Education, Cooperative learning, Educational intervention.

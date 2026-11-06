@@ -1,0 +1,19 @@
+<!--
+  APA 7 captions in the HTML book: wrap the caption label ("Taula 1",
+  "Irudia 1") in a span so `templates/html/hefa.scss` can show it in bold
+  above the italic title. Requires `crossref.title-delim: "<br>"` for HTML.
+-->
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    document.querySelectorAll("figcaption.quarto-float-caption").forEach((caption) => {
+      const firstBreak = caption.querySelector("br");
+      const labelText = caption.firstChild;
+      if (!firstBreak || labelText?.nodeType !== Node.TEXT_NODE) return;
+
+      const label = document.createElement("span");
+      label.className = "quarto-caption-label";
+      label.textContent = labelText.textContent.trim();
+      labelText.replaceWith(label);
+    });
+  });
+</script>

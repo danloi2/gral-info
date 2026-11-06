@@ -1,0 +1,49 @@
+---
+# ==============================================================================
+# BOOK LANDING PAGE (index.qmd)
+# ==============================================================================
+# Undergraduate Thesis (TFG / GRAL) - HEFA, UPV/EHU
+#
+# In a Quarto Book, `index.qmd` is the first entry of `book.chapters`. It holds
+# ONLY the unnumbered front matter, pulled in from `front-matter/`. Numbered
+# chapters are listed in `_quarto.yml` -> `book.chapters`; do NOT include them here.
+#
+# The `#pagebreak(to: "odd")` blocks affect the PDF only. Numbered chapters
+# start on an odd page by themselves (level-1 rule in
+# `templates/typst/hefa-style.typ`).
+# ==============================================================================
+---
+
+<!-- ======================================================================= -->
+<!-- LANDING PAGE TITLE (DO NOT DELETE)                                      -->
+<!-- Quarto Book uses the first heading of each file as its chapter title.   -->
+<!-- Without this one it would take "Eskerrak" and print it before the       -->
+<!-- cover. The PDF hides it through its `#sec-atariko-atalak` label (see    -->
+<!-- `templates/typst/hefa-style.typ`).                                      -->
+<!-- ======================================================================= -->
+
+# Atariko atalak {#sec-atariko-atalak .unnumbered .unlisted}
+
+<!-- ======================================================================= -->
+<!-- FRONT MATTER (cover, acknowledgements, abstracts, table of contents)   -->
+<!-- ======================================================================= -->
+
+{{< include front-matter/azala.qmd >}}
+
+```{=typst}
+#pagebreak(to: "odd")
+```
+
+{{< include front-matter/eskerrak.qmd >}}
+
+```{=typst}
+#pagebreak(to: "odd")
+```
+
+{{< include front-matter/laburpenak.qmd >}}
+
+```{=typst}
+#pagebreak(to: "odd")
+```
+
+{{< include front-matter/aurkibidea.qmd >}}

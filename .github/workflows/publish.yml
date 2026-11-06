@@ -1,0 +1,66 @@
+# ==============================================================================
+# BUILD THE THESIS AND PUBLISH IT ON GITHUB PAGES
+# ==============================================================================
+# On every push to `main` (or when run by hand from the Actions tab):
+#   1. Installs Quarto (same version used to develop the template).
+#   2. Installs Chrome Headless Shell, needed to turn Mermaid diagrams into
+#      images for the PDF (Typst) and Word outputs.
+#   3. Renders all formats (`quarto render`) into `build/`: HTML book, PDF and
+#      DOCX. The HTML download buttons point at the PDF/DOCX in the same folder.
+#   4. Publishes `build/` with GitHub Pages
+#      (Settings -> Pages -> Source: "GitHub Actions").
+# ==============================================================================
+name: Publish to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Minimum permissions required by actions/deploy-pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deployment at a time; a newer push cancels an older one still running
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Install Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 1.10.20   # Typst books need Quarto >= 1.9
+
+      - name: Install Chrome Headless Shell (Mermaid diagrams in PDF/DOCX)
+        run: quarto install chrome-headless-shell --no-prompt
+
+      - name: Render HTML, PDF and DOCX
+        run: quarto render
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload the site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: build
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

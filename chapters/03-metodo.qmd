@@ -1,0 +1,732 @@
+# METODOA {#sec-metodo}
+
+
+::: {.callout-note}
+## Edukia: Metodoa
+
+Atal honetan ikerketa nola gauzatu den azaltzen da. Irakurleari ikerketaren diseinua, parte-hartzaileak edo aztertutako kasua, datuak biltzeko eta aztertzeko prozedurak, erabilitako tresnak eta kontuan hartutako alderdi etikoak ezagutzeko aukera ematen dio. Metodoaren deskribapenak nahikoa zehatza izan behar du beste ikertzaile batek ikerketa bera erreplikatu edo ulertu ahal izateko.
+
+**Luzera orientagarria:** % 15–25 (% 18).
+
+**Aditz-denborak (APA 7):** Iragana nagusiki.
+
+**Adibidea:** Kasu-azterketa kualitatibo baten diseinua erabili zen. Datuak elkarrizketa erdi-egituratuen bidez bildu ziren, eta analisi tematikoaren bidez aztertu ziren.
+
+**Helburuak**
+
+Metodoaren atalaren bidez:
+- Ikerketaren diseinua justifikatzen da.
+- Parte-hartzaileak edo aztertutako kasua deskribatzen dira.
+- Datu-bilketako tresnak azaltzen dira.
+- Ikerketa-prozesua dokumentatzen da.
+- Datuen analisi-prozedura azaltzen da.
+- Kalitate metodologikoa eta gardentasuna bermatzen dira.
+- Alderdi etikoak azaltzen dira.
+
+**Ohar metodologikoa**
+
+Metodoaren atalak ikerketaren fidagarritasuna eta sinesgarritasuna bermatzeko behar den informazioa eman behar du. Ez da nahikoa zer egin den esatea; azaldu behar da zergatik aukeratu den diseinu hori eta nola laguntzen duen ikerketa-galderei erantzuten.
+
+**Aipu bibliografikoak:** Gomendagarriak, batez ere diseinu metodologikoa edo datu-analisirako erreferentzia teorikoak justifikatzeko.
+:::
+
+{{< lipsum 1 >}}
+
+
+
+## Ikerketaren Diseinua {#sec-diseinua}
+
+
+::: {.callout-note}
+## Edukia: Ikuspegi metodologikoa eta ikerketa-diseinua
+
+Erabilitako ikuspegi metodologikoa eta ikerketa-diseinua deskribatzen dira. Azaldu behar da ikerketa kuantitatiboa, kualitatiboa edo mistoa den, eta zein diseinu zehatz erabili den (kasu-azterketa, fenomenologia, etnografia, ikerketa-ekintza, diseinu korrelazionala, diseinu deskriptiboa, etab.).
+
+**Luzera orientagarria:** % 2–4.
+
+**Aditz-denborak (APA 7):** Iragana.
+
+**Adibidea:** Ikerketa hau kasu-azterketa kualitatibo baten bidez garatu zen, fenomeno baten ulermen sakona lortzeko helburuarekin.
+
+**Ohar metodologikoa:** Diseinua aukeratzeko arrazoiak azaldu behar dira, ikerketa-galderekin duen koherentzia azpimarratuz.
+
+**Aipu bibliografikoak:** Gomendagarriak.
+:::
+
+Ikerketa kualitatiboaren diseinuak aztertutako fenomenoa bere testuinguru naturalean ulertzea du helburu [@creswell2018], eta ikerketa-ibilbidearen aukeraketa ikerketa-galderen izaeraren araberakoa da [@hernandez2018].
+
+{{< lipsum 1 >}}
+
+
+## Hipotesiak eta Aldagaiak / proposamen teorikoak {#sec-hipotesiak}
+
+
+::: {.callout-note}
+## Edukia: Hipotesiak eta aldagaiak / proposamen teorikoak
+
+Diseinu kuantitatiboetan hipotesiak eta aldagaiak aurkezten dira. Diseinu kualitatiboetan, bereziki kasu-azterketetan, proposizio teorikoak aurkez daitezke. Proposizio horiek ez dira frogatu edo baztertu behar diren hipotesiak; aitzitik, datuen bilketa eta analisia orientatzeko erabiltzen diren aurreikuspen edo ideia teorikoak dira.
+
+**Luzera orientagarria:** % 1–2.
+
+**Aditz-denborak (APA 7):** Oraina.
+:::
+
+
+::: {.callout-note}
+## Hipotesiak eta aldagaiak**
+
+Hipotesiak ikerketa-galderei lotutako aurreikuspenak dira eta aldagaien arteko erlazio posibleak adierazten dituzte. Aldagaiak, berriz, neurtu edo behatu daitezkeen ezaugarriak dira.
+
+**Adibidea 1**
+
+H1: Irakasleen prestakuntza-mailaren eta hezkuntza inklusiboaren aldeko jarreren artean erlazio positiboa dago.
+
+**Aldagai independentea (AI):** Irakasleen prestakuntza-maila.
+
+**Adierazle posibleak:**
+- Prestakuntza-ikastaro kopurua.
+- Inklusioari buruzko prestakuntza-orduak.
+- Prestakuntza espezializatua izatea edo ez.
+
+**Aldagai dependentea (AD):** Hezkuntza inklusiboaren aldeko jarrera.
+
+**Adierazle posibleak:**
+- Inklusioarekiko adostasun-maila.
+- Aniztasunari erantzuteko prestutasuna.
+- Praktika inklusiboen erabilera-maiztasuna.
+:::
+
+
+::: {.callout-note}
+## Hipotesiak eta aldagaiak
+
+Hipotesiak ikerketa-galderei lotutako aurreikuspenak dira eta aldagaien arteko erlazio posibleak adierazten dituzte. Aldagaiak, berriz, neurtu edo behatu daitezkeen ezaugarriak dira.
+
+**Adibidea 1**
+
+H1: Irakasleen prestakuntza-mailaren eta hezkuntza inklusiboaren aldeko jarreren artean erlazio positiboa dago.
+
+**Aldagai independentea (AI):** Irakasleen prestakuntza-maila.
+
+**Adierazle posibleak:**
+- Prestakuntza-ikastaro kopurua.
+- Inklusioari buruzko prestakuntza-orduak.
+- Prestakuntza espezializatua izatea edo ez.
+
+**Aldagai dependentea (AD):** Hezkuntza inklusiboaren aldeko jarrera.
+
+**Adierazle posibleak:**
+- Inklusioarekiko adostasun-maila.
+- Aniztasunari erantzuteko prestutasuna.
+- Praktika inklusiboen erabilera-maiztasuna.
+:::
+
+
+::: {.callout-note}
+## Edukia: Proposizio teorikoak
+
+Proposizio teorikoek ikerketa orientatzen dute eta literaturan aurkitutako aurrekari teorikoetan oinarritzen dira. Datuen bidez ulertu, findu edo birformulatu daitezke.
+
+**Adibideak (kasu-azterketa):**
+
+- **PT1:** Irakasleen prestakuntza-esperientziek eragina izan dezakete hezkuntza inklusiboari buruz eraikitzen dituzten esanahietan.
+- **PT2:** Ikastetxearen kultura kolaboratiboak erraztu dezake hezkuntza inklusiboko praktiken garapena.
+- **PT3:** Zuzendaritza-taldearen babesak baldintza dezake irakasleek berrikuntza pedagogikoak ezartzeko duten gaitasuna.
+- **PT4:** Irakasle hasiberrien integrazio-prozesua errazagoa izan daiteke mentoring edo laguntza-sistema formalak dituzten ikastetxeetan.
+:::
+
+
+::: {.callout-note}
+## Ohar metodologikoa
+
+Ikerketa kuantitatiboetan atal honetan normalean hipotesiak, aldagaiak eta haien adierazleak aurkezten dira. Ikerketa kualitatiboetan, berriz, ohikoagoa da proposizio teorikoak edo ikerketa gidatzen duten aurreikuspen kontzeptualak aurkeztea.
+
+Fenomenologia, narratiba eta Grounded Theory tradizioetan ez da nahitaezkoa hipotesi edo proposizio teoriko itxiak formulatzea.
+
+**Aipu bibliografikoak:** Gomendagarriak, bereziki hipotesiak, aldagaiak edo proposizio teorikoak aurreko literaturan oinarritzen direnean.
+:::
+
+{{< lipsum 1 >}}
+
+
+## Partehartzaileak / Kasuaren Deskribapena: Informanteak {#sec-partehartzaileak}
+
+
+::: {.callout-note}
+## Edukia: Parte-hartzaileak / kasuaren deskribapena / informanteak
+
+Atal honetan ikerketan parte hartu duten pertsonak, aztertutako kasua edo aztertutako testuingurua deskribatzen dira. Azaldu behar da nork parte hartu duen, nola hautatu diren, zein laginketa-estrategia erabili den eta zergatik den egokia ikerketaren helburuetarako.
+
+Ikerketa kualitatiboetan, gainera, kasuaren deskribapena, informanteen ezaugarriak eta datuen saturazioaren irizpidea aurkeztu behar dira.
+
+**Luzera orientagarria:** % 2–4.
+
+**Aditz-denborak (APA 7):** Iragana.
+:::
+
+
+::: {.callout-note}
+## Edukia: Populazioa, lagina eta laginketa-prozedura
+
+Ikerketaren populazioa, lagina eta laginketa-prozedura deskribatu behar dira. Zehaztu behar da lagina nola osatu den, zenbat parte-hartzailek osatzen duten eta zein hautaketa-metodo erabili den.
+
+**Laginketa probabilistikoa (ausazkoa)**
+
+Populazioko subjektu guztiek hautatuak izateko probabilitate positiboa dute.
+
+- **Ausazko laginketa sinplea:** Populazioko subjektu guztiek hautatuak izateko probabilitate bera dute.
+- **Ausazko laginketa estratifikatua:** Populazioa estratutan banatzen da eta estratu bakoitzean subjektu kopuru adierazgarri bat hautatzen da.
+- **Ausazko laginketa sistematikoa:** Lehen subjektua ausaz hautatzen da eta ondoren tarte finko baten arabera aukeratzen dira gainerakoak.
+- **Konglomeratuen araberako laginketa:** Populazioa talde naturaletan banatzen da (ikastetxeak, udalerriak, eskualdeak...) eta talde batzuk hautatzen dira populazio osoaren ordezkari gisa.
+
+**Laginketa ez-probabilistikoa**
+
+Subjektuen hautaketa ikertzailearen irizpideetan oinarritzen da eta ez da ezagutzen subjektu bakoitzak hautatua izateko duen probabilitatea.
+
+- **Kuoten araberako laginketa:** Populazioa azpitaldetan banatzen da eta talde bakoitzean aurrez ezarritako kuota bat betetzen da.
+- **Erosotasuneko laginketa:** Ikertzailearentzat irisgarrienak edo eskuragarrienak diren pertsonak hautatzen dira.
+- **Elur-bola laginketa:** Parte-hartzaile batek beste parte-hartzaile posible batzuk proposatzen ditu eta lagina pixkanaka handitzen da.
+- **Laginketa kasuala edo akzidentala:** Une jakin batean eskura dauden pertsonak hautatzen dira aurretiazko hautaketa-irizpiderik gabe.
+- **Laginketa diskrezionala edo epaiketa bidezkoa:** Ikertzaileak bere ezagutza eta irizpide profesionala erabiliz hautatzen ditu subjektuak.
+
+**Adibidea**
+
+Ikerketan 132 Lehen Hezkuntzako irakaslek parte hartu zuten. Erosotasuneko laginketa erabili zen, ikertzaileak harremana zuen bost ikastetxetako irakasleak gonbidatuz.
+:::
+
+
+::: {.callout-note}
+## Edukia: Kasuaren deskribapena
+
+Ikerketa kualitatiboetan ez da lagin estatistikoki adierazgarririk bilatzen. Helburua fenomenoa sakon ulertzea da; horregatik, informazio aberatsa eman dezaketen kasuak eta informanteak hautatzen dira.
+
+Kasu-azterketetan edo testuinguru jakin batean oinarritutako ikerketetan azaldu behar da:
+
+- Zergatik aukeratu den kasua.
+- Zein den haren interesa edo berezitasuna.
+- Zein testuingurutan kokatzen den.
+- Zein ezaugarri nagusi dituen.
+
+**Adibidea**
+
+Kasu gisa hautatutako ikastetxea hezkuntza inklusiboaren garapenean erreferentziazko zentroa delako aukeratu zen. Ikastetxea hiri-ingurune batean kokatzen da eta 450 ikasle inguru ditu.
+:::
+
+
+::: {.callout-note}
+## Edukia: Kasuaren deskribapena
+
+Ikerketa kualitatiboetan ez da lagin estatistikoki adierazgarririk bilatzen. Helburua fenomenoa sakon ulertzea da; horregatik, informazio aberatsa eman dezaketen kasuak eta informanteak hautatzen dira.
+
+Kasu-azterketetan edo testuinguru jakin batean oinarritutako ikerketetan azaldu behar da:
+
+- Zergatik aukeratu den kasua.
+- Zein den haren interesa edo berezitasuna.
+- Zein testuingurutan kokatzen den.
+- Zein ezaugarri nagusi dituen.
+
+**Adibidea**
+
+Kasu gisa hautatutako ikastetxea hezkuntza inklusiboaren garapenean erreferentziazko zentroa delako aukeratu zen. Ikastetxea hiri-ingurune batean kokatzen da eta 450 ikasle inguru ditu.
+:::
+
+
+::: {.callout-note}
+## Edukia: Laginketa-estrategiak
+
+Ikerketa kualitatiboetan ohikoak dira:
+
+- Nahitako laginketa (*purposeful sampling*).
+- Irizpide bidezko laginketa.
+- Gehieneko aldakortasunaren laginketa.
+- Kasu tipikoen hautaketa.
+- Kasu kritikoen hautaketa.
+- Adituen hautaketa.
+- Elur-bola laginketa.
+
+**Laginaren tamaina**
+
+Laginaren tamaina ez da estatistikoki zehazten. Parte-hartzaileen kopurua ikerketaren helburuen, diseinuaren eta lortutako informazioaren aberastasunaren arabera justifikatzen da.
+
+**Datuen saturazioa**
+
+Datuen saturazioa gertatzen da elkarrizketa, behaketa edo dokumentu berriek informazio edo kategoria berririk ematen ez dutenean. Une horretan datu-bilketa amaitutzat jo daiteke, saturazioa benetan justifikatu bada.
+
+**Adibidea**
+
+Datuen bilketa amaitutzat jo zen zazpigarren elkarrizketaren ondoren, informazio berririk ez zelako agertzen eta aurretik identifikatutako kategoriak etengabe errepikatzen hasi zirelako.
+:::
+
+
+::: {.callout-note}
+## Ohar metodologikoa
+
+Ikerketa kuantitatiboetan laginaren ordezkaritza eta hautaketa-prozedura justifikatzea funtsezkoa da. Ikerketa kualitatiboetan, berriz, arreta handiagoa jartzen da informanteen egokitasunean, kasuaren interes teorikoan eta datuen saturazioan.
+
+Kasu-azterketetan bereziki garrantzitsua da azaltzea zergatik hautatu den kasu hori eta zer ekarpen egin diezaiokeen ikerketaren helburuei.
+
+**Aipu bibliografikoak:** Gomendagarriak.
+:::
+
+{{< lipsum 1 >}}
+
+
+## Datuak Jasotzeko Tresnak {#sec-tresnak-jasotzea}
+
+
+::: {.callout-note}
+## Edukia: Datuak biltzeko teknikak eta tresnak
+
+Atal honetan ikerketan datuak lortzeko erabilitako teknikak, tresnak eta estrategiak deskribatzen dira. Azaldu behar da zer informazio bildu nahi izan den, nola bildu den eta zer baliabide erabili diren horretarako. Halaber, aukeratutako teknikak eta tresnak ikerketa-galderei erantzuteko zergatik diren egokiak justifikatu behar da.
+
+**Luzera orientagarria:** % 2–4.
+
+**Aditz-denborak (APA 7):** Iragana.
+:::
+
+
+::: {.callout-note}
+## Kontzeptuen definizioa**
+
+- **Teknikak:** Datuak eskuratzeko erabiltzen diren prozedurak dira.
+- **Tresnak:** Datuak jasotzeko erabiltzen diren baliabide edo instrumentu zehatzak dira.
+- **Estrategiak:** Datu-bilketa nola antolatu eta gauzatu den azaltzen duten erabaki metodologikoak dira.
+:::
+
+
+::: {.callout-note}
+## Edukia: Datu-bilketako teknikak ikerketa kuantitatiboetan
+
+Ohiko teknikak honako hauek dira:
+
+- Galdetegiak.
+- Test estandarizatuak.
+- Eskalak.
+- Inkestak.
+- Erregistro kuantitatiboak.
+
+**Adibidea**
+
+Datuak online galdetegi baten bidez bildu ziren. Tresna gisa Likert motako eskala zuen galdetegi bat erabili zen, irakasleen jarrerak neurtzeko.
+:::
+
+
+::: {.callout-note}
+## Edukia: Datu-bilketako teknikak ikerketa kualitatiboetan
+
+Ohiko teknikak honako hauek dira:
+
+- Elkarrizketa egituratuak.
+- Elkarrizketa erdi-egituratuak.
+- Elkarrizketa irekiak.
+- Behaketa.
+- Behaketa parte-hartzailea.
+- Eztabaida-taldeak.
+- Dokumentuen analisia.
+- Egunerokoak.
+- Bizitza-historiak.
+- Narratibak.
+
+**Adibidea**
+
+Datuak elkarrizketa erdi-egituratuen bidez bildu ziren. Horretarako, aurrez prestatutako elkarrizketa-gidoi bat erabili zen. Elkarrizketak audioz grabatu eta ondoren transkribatu ziren.
+:::
+
+
+::: {.callout-note}
+## Edukia: Tekniken eta tresnen deskribapena
+
+Teknika edo tresna bakoitzerako honako alderdiak azaltzea gomendatzen da:
+
+- Zer teknika erabili den.
+- Zer tresna erabili den.
+- Zer informazio bildu nahi izan den.
+- Nori aplikatu zaion.
+- Zenbat aldiz edo zer iraupenarekin erabili den.
+- Zergatik aukeratu den.
+- Nola laguntzen duen ikerketa-galderei erantzuten.
+:::
+
+
+::: {.callout-note}
+## Edukia: Tresnen kalitatea eta fidagarritasuna
+
+Tresna estandarizatuak erabiltzen badira, komeni da haien baliozkotasuna eta fidagarritasuna aipatzea.
+
+Tresna propioak diseinatzen badira, gomendagarria da pilotaje-prozesua edo adituen balorazioa azaltzea.
+:::
+
+
+::: {.callout-note}
+## Edukia: Tresnen kalitatea eta fidagarritasuna
+
+Tresna estandarizatuak erabiltzen badira, komeni da haien baliozkotasuna eta fidagarritasuna aipatzea.
+
+Tresna propioak diseinatzen badira, gomendagarria da pilotaje-prozesua edo adituen balorazioa azaltzea.
+:::
+
+
+::: {.callout-note}
+## Ohar metodologikoa
+
+Ikerketa kualitatiboetan ez da nahikoa elkarrizketak edo behaketak egin direla esatea. Azaldu behar da zergatik aukeratu diren teknika horiek eta zer informazio mota lortu nahi izan den haien bidez. Era berean, komeni da azaltzea nola osatzen diren teknika desberdinen bidez lortutako datuak.
+
+**Aipu bibliografikoak:** Gomendagarriak.
+:::
+
+{{< lipsum 1 >}}
+
+
+## Prozesua {#sec-prozesua}
+
+
+::: {.callout-note}
+## Edukia: Ikerketa-prozedura
+
+Atal honetan ikerketan zehar jarraitu diren urrats guztiak deskribatzen dira, kronologikoki antolatuta. Helburua da ikerketaren garapena modu argi eta sistematikoan azaltzea, hasierako planifikaziotik hasi eta emaitzen zabalkundera arte. Gomendagarria da prozesua faseetan antolatzea eta kronograma baten bidez irudikatzea.
+
+**Luzera orientagarria:** % 2–3.
+
+**Aditz-denborak (APA 7):** Iragana.
+:::
+
+
+::: {.callout-note}
+## 1. FASEA: PLANIFIKAZIOA ETA DOKUMENTAZIOA
+
+Lehen fase honetan ikerketaren oinarriak ezarri ziren. Ikerketa-gaia zehaztu zen, hasierako literatura-bilaketa egin zen eta ikerketaren diseinua planifikatu zen. Halaber, beharrezko kontaktuak egin ziren, parte-hartzaile posibleekin edo erakundeekin harremanetan jarriz, eta datuak biltzeko tresnak prestatu edo egokitu ziren.
+
+**Azaldu beharreko alderdiak:**
+
+- Gaia aukeratzeko eta mugatzeko prozesua.
+- Literaturaren berrikuspena.
+- Erakunde edo parte-hartzaileekin egindako lehen kontaktuak.
+- Baimenen kudeaketa.
+- Datuak jasotzeko tresnen diseinua edo egokitzapena.
+
+**Adibidea**
+
+2024ko urritik abendura bitartean literatura zientifikoaren berrikuspena egin zen eta ikastetxearekin lehen harremanak ezarri ziren. Aldi berean, elkarrizketa-gidoia diseinatu eta tutorearekin balioztatu zen.
+:::
+
+
+::: {.callout-note}
+## 2. FASEA: INFORMAZIOA JASOTZEA / LANDA-LANA
+
+Bigarren fasean datu-bilketa egin zen. Azaldu behar da noiz, non eta nola jaso ziren datuak, zer tekniken bidez eta zenbat denboran.
+
+**Azaldu beharreko alderdiak:**
+
+- Datu-bilketaren egutegia.
+- Erabilitako teknikak.
+- Saioen iraupena.
+- Parte-hartzaileen parte-hartzea.
+- Gorabehera edo egokitzapen metodologikoak.
+
+**Adibidea**
+
+2025eko urtarrilean eta otsailean sei elkarrizketa erdi-egituratu egin ziren. Elkarrizketa bakoitzak 45 eta 60 minutu arteko iraupena izan zuen, eta audioz grabatu ziren parte-hartzaileen baimenarekin.
+:::
+
+
+::: {.callout-note}
+## 3. FASEA: ANALISIA
+
+Fase honetan bildutako datuak antolatu, tratatu eta aztertu ziren. Azaldu behar da zer urrats jarraitu ziren informazioa interpretatzeko eta emaitzak eraikitzeko.
+
+**Azaldu beharreko alderdiak:**
+
+- Datuen prestaketa.
+- Transkripzio-prozesua.
+- Kodeketa edo kategorizazioa.
+- Analisi estatistikoak edo analisi kualitatiboak.
+- Emaitzen eraikuntza.
+
+**Adibidea**
+
+Elkarrizketak hitzez hitz transkribatu ziren. Ondoren, analisi tematiko induktiboa egin zen eta informazioa hainbat kategoriatan antolatu zen.
+:::
+
+
+::: {.callout-note}
+## 4. FASEA: ZABALKUNDEA ETA ITZULKETA
+
+Azken fasean ikerketaren emaitzak sistematizatu eta zabaldu ziren. Ezagutza sortzea ez ezik, emaitzak interesdunekin partekatzea ere ikerketa-prozesuaren parte da.
+
+**Azaldu beharreko alderdiak:**
+
+- Txostenaren idazketa.
+- Emaitzen aurkezpena.
+- Parte-hartzaileei edo erakundeei egindako itzulketa.
+- Poster edo komunikazio zientifikoak.
+- Dibulgazio-jarduerak.
+
+**Adibidea**
+
+Ikerketaren emaitzak txosten batean bildu ziren eta parte hartu zuen ikastetxeko zuzendaritza-taldearekin partekatu ziren. Horrez gain, emaitzen laburpena Gradu Amaierako Lanaren defentsan aurkeztu zen.
+:::
+
+
+::: {.callout-note}
+## Edukia: Ikerketa-prozesuaren kronograma
+
+Prozesuaren amaieran edo eranskinetan kronograma bat txertatzea gomendatzen da, fase bakoitzaren garapena denboran kokatzeko.
+
+Kronogramak fase bakoitzaren hasiera- eta amaiera-datak, jarduera nagusiak eta faseen arteko loturak erakuts ditzake.
+:::
+
+
+::: {.callout-note}
+## Ohar metodologikoa
+
+Prozesuaren atalak irakurleari ikerketa nola garatu den ulertzeko aukera eman behar dio. Horregatik, ez da nahikoa egindako jarduerak zerrendatzea; jarduera horiek noiz, nola eta zer helbururekin egin ziren azaltzea komeni da.
+
+Kronogramak ikerketaren koherentzia eta plangintza erakusten laguntzen du.
+
+**Aipu bibliografikoak:** Ez dira beharrezkoak.
+:::
+
+
+Ikerketaren garapena lau fase nagusitan egituratu da, @fig-faseak irudian eta @tbl-kronograma taulan zehazten den moduan.
+
+```{mermaid}
+%%| label: fig-faseak
+%%| fig-cap: "Ikerketaren fase metodologikoen sekuentziazioa eta garapen-fluxua."
+%%| fig-width: 5.8
+%%| fig-align: center
+
+flowchart LR
+  A[1. Diagnostikoa] --> B[2. Diseinua]
+  B --> C[3. Garapena]
+  C --> D[4. Ebaluazioa]
+
+  style A fill:#EEECE9,stroke:#5FD790,stroke-width:1px
+  style B fill:#EEECE9,stroke:#5FD790,stroke-width:1px
+  style C fill:#B0FBC1,stroke:#2e8b57,stroke-width:1px
+  style D fill:#EEECE9,stroke:#5FD790,stroke-width:1px
+```
+
+| Fasea | Jarduera nagusiak | Denboralizazioa |
+|:------|:------------------|:----------------|
+| 1. Diagnostikoa | Ikasgelako behaketa eta hasierako beharren detekzioa | Urria - Azaroa |
+| 2. Diseinua | Esku-hartze didaktikoaren plangintza eta materialen prestaketa | Abendua - Urtarrila |
+| 3. Garapena | Saioen inplementazioa eta behaketa-erregistroak | Otsaila - Martxoa |
+| 4. Ebaluazioa | Datuen analisia, triangulazioa eta txostenaren idazketa | Apirila - Maiatza |
+
+: Ikerketaren garapen-faseak eta denboralizazioa. {#tbl-kronograma}
+
+```{=typst}
+#taula-oharra[Ikastetxeko zuzendaritzarekin eta etapa-koordinatzailearekin adostutako kronograma ofiziala. Fase bakoitzaren iraupena esku-hartze didaktikoaren beharren arabera doitu da.]
+```
+
+## Datuak Analizatzeko Tresnak {#sec-tresnak-analisia}
+
+
+::: {.callout-note}
+## Edukia: Datuen analisia
+
+Atal honetan azaltzen da nola tratatu eta analizatu ziren ikerketan bildutako datuak. Zehaztu behar dira erabilitako analisi-teknikak, tresnak eta estrategiak, baita analisia egiteko erabilitako programa informatikoak ere. Helburua da irakurleak ulertzea nola igaro zen ikertzailea datu gordinetatik emaitzak lortzera.
+
+**Luzera orientagarria:** % 2–4.
+
+**Aditz-denborak (APA 7):** Iragana.
+:::
+
+{{< lipsum 1 >}}
+
+**Analisiaren deskribapena**
+
+::: {.callout-note}
+## Edukia: Analisi-prozesuaren deskribapena
+
+Atal honetan honako alderdi hauek azaldu behar dira:
+
+- Zer datu mota analizatu ziren.
+- Zer analisi-prozedura erabili zen.
+- Zer urrats jarraitu ziren analisia egiteko.
+- Zer programa edo software erabili zen.
+- Analisiak nola lagundu zuen ikerketa-galderei erantzuten.
+
+Deskribapena ikerketaren ikuspegi metodologikora eta diseinura egokitu behar da.
+:::
+
+{{< lipsum 1 >}}
+
+**Ikerketa kuantitatiboetan**
+
+::: {.callout-note}
+## Edukia: Datu kuantitatiboen analisia
+
+Datu kuantitatiboen analisian estatistika deskribatzaileak eta/edo inferentzialak erabiltzen dira, ikerketaren helburuen eta datuen ezaugarrien arabera.
+
+**Ohiko analisi-teknikak:**
+
+- Maiztasunak eta ehunekoak.
+- Batezbestekoak eta desbideratze estandarrak.
+- Korrelazio-analisiak.
+- *t* testak.
+- Bariantza-analisia (ANOVA).
+- Erregresio-analisiak.
+- Faktore-analisia.
+- Mediazio- eta/edo moderazio-analisiak.
+
+**Erabil daitezkeen tresnak eta softwareak:**
+
+- SPSS.
+- R.
+- jamovi.
+- JASP.
+- Excel.
+:::
+
+::: {.callout-note}
+## Adibidea: Analisi kuantitatiboa
+
+Galdetegien bidez lortutako datuak SPSS softwarearen bidez analizatu ziren. Lehenik, estatistika deskribatzaileak kalkulatu ziren, eta, ondoren, aldagaien arteko erlazioak aztertzeko, Pearsonen korrelazio-koefizientea aplikatu zen.
+:::
+
+{{< lipsum 1 >}}
+
+**Ikerketa kualitatiboetan**
+
+::: {.callout-note}
+## Edukia: Datu kualitatiboen analisia
+
+Datu kualitatiboen analisian, informazioaren esanahia ulertzea eta interpretatzea da helburua. Horretarako, bildutako datuak sistematikoki aztertzen dira, esanahi-unitateak, kodeak, kategoriak eta gai nagusiak identifikatzeko.
+
+**Ohiko analisi-teknikak:**
+
+- Eduki-analisia.
+- Analisi tematikoa.
+- Diskurtso-analisia.
+- Analisi narratiboa.
+- Analisi fenomenologikoa.
+- Kodeketa irekia, axiala eta selektiboa.
+- Kategoriak sortzeko prozedura induktiboak edo deduktiboak.
+
+**Erabil daitezkeen tresnak eta softwareak:**
+
+- NVivo.
+- ATLAS.ti.
+- MAXQDA.
+- QualCoder.
+:::
+
+::: {.callout-note}
+## Adibidea: Analisi kualitatiboa
+
+Elkarrizketen transkripzioak NVivo programan inportatu ziren. Ondoren, kodeketa irekia egin zen, eta antzeko kodeak kategoria tematikoetan antolatu ziren. Azkenik, ikerketa-galderekin lotutako gai nagusiak identifikatu ziren.
+:::
+
+Datuak analisi tematikoaren bidez aztertu ziren, @braun2006 proposatutako sei faseei jarraituz: datuekin familiarizatzea, hasierako kodeak sortzea, gaiak bilatzea, gaiak berrikustea, gaiak definitzea eta txostena idaztea.
+
+{{< lipsum 1 >}}
+
+**Diseinu mistoetan**
+
+::: {.callout-note}
+## Edukia: Datuen analisia ikerketa mistoetan
+
+Ikerketa mistoetan, bi analisi-prozesuak deskribatu behar dira: kuantitatiboa eta kualitatiboa. Horrez gain, azaldu behar da nola integratu ziren bi datu-iturrietatik lortutako emaitzak eta zer ekarpen egin zuen integrazio horrek ikerketa-galderei erantzuteko.
+
+**Adibidea:**
+
+Galdetegien datuak SPSS bidez analizatu ziren, eta elkarrizketen datuak NVivo bidez. Ondoren, bi analisietatik lortutako emaitzak alderatu eta triangulatu ziren, emaitzen arteko bat-etortzeak eta desadostasunak identifikatzeko.
+:::
+
+{{< lipsum 1 >}}
+
+
+::: {.callout-note}
+## Edukia: Analisiaren kalitatea eta sendotasuna
+
+Bereziki ikerketa kualitatiboetan, komeni da analisiaren fidagarritasuna eta sinesgarritasuna bermatzeko erabilitako estrategiak azaltzea.
+
+**Erabil daitezkeen estrategiak:**
+
+- Triangulazioa.
+- Parte-hartzaileen baliozkotzea (*member checking*).
+- Ikertzaileen arteko kontrastea.
+- Auditoretza-arrastoa (*audit trail*).
+- Kategoria-sistemaren berrikuspena.
+
+**Adibidea:**
+
+Lortutako kategoriak tutorearekin kontrastatu ziren, interpretazioaren koherentzia eta kategorien egokitasuna egiaztatzeko.
+:::
+
+{{< lipsum 1 >}}
+
+::: {.callout-note}
+## Ohar metodologikoa
+
+Atal honetan ez da nahikoa softwarearen izena aipatzea. Programa informatikoak laguntza-tresnak dira; garrantzitsuena da azaltzea zer analisi-prozedura erabili zen, zer urrats jarraitu ziren eta nola eraiki ziren emaitzak datuetatik abiatuta. Analisiaren deskribapenak nahikoa zehatza izan behar du beste ikertzaile batek prozesua ulertu eta, behar izanez gero, errepikatu ahal izateko.
+
+**Aipu bibliografikoak:** GOMENDAGARRIAK, bereziki analisi-teknikak edo softwarearen erabilera metodologikoki justifikatzeko.
+:::
+
+## Inplikazio Etikoak {#sec-inplikazio-etikoak}
+
+::: {.callout-note}
+## Edukia: Ikerketaren alderdi etikoak
+
+Atal honetan ikerketan kontuan hartu ziren printzipio etikoak eta parte-hartzaileen eskubideak nola babestu ziren azaltzen da.
+
+**Luzera orientagarria:** % 1–2.
+
+**Aditz-denborak (APA 7):** Iragana.
+
+**Azaldu beharreko alderdiak:**
+
+- Parte-hartzaileen borondatezko parte-hartzea.
+- Baimen informatua.
+- Anonimotasuna eta konfidentzialtasuna.
+- Datu pertsonalen babesa.
+- Informazioaren biltegiratzea eta erabilera.
+- Bildutako datuen erabilera arduratsua.
+:::
+
+::: {.callout-note}
+## Adibidea**
+
+Parte-hartzaile guztiek baimen informatua eman zuten ikerketan parte hartu aurretik. Jasotako informazioa modu konfidentzialean tratatu zen, eta datu pertsonalak anonimizatu ziren, parte-hartzaileen pribatutasuna babesteko. Bildutako datuak ikerketaren helburuetarako soilik erabili ziren, eta modu seguruan biltegiratu ziren.
+:::
+
+::: {.callout-note}
+## Lotura eranskinekin
+
+Ikerketaren alderdi etikoen deklarazio osoa **2. eranskinean: Inplikazio Etikoak Aitortzeko Adierazpena** atalean aurkezten da.
+
+[Inplikazio Etikoak Aitortzeko Adierazpena — UPV/EHU](https://www.ehu.eus/documents/d/hezkuntza-filosofia-antropologia-fakultatea/gral-mal-inplikazio-etikoak)
+
+**Aipu bibliografikoak:** GOMENDAGARRIAK.
+:::
+
+
+
+Gradu Amaierako Lan honek Universidad del País Vasco / Euskal Herriko Unibertsitateak (UPV/EHU) eta HEFA fakultateak ezarritako printzipio etikoak, ikerketa-kode akademikoa eta Datu Pertsonalak Babesteko eta Eskubide Digitalak Bermatzeko 3/2018 Lege Organikoa zorrotz betetzen ditu.
+
+1. **Anonimotasuna eta konfidentzialtasuna:** Ikastetxearen, irakasleen eta ikasleen datu pertsonalak guztiz babestu eta desidentifikatu dira.
+2. **Baimen informatua:** Ikasleen guraso edo legezko tutoreen aldez aurreko baimen idatzia jaso da, bai eta ikastetxeko zuzendaritzaren baimen ofiziala ere.
+3. **Zintzotasun akademikoa eta konpromisoa:** Bildutako datuak helburu akademiko eta ikerketarako soilik erabili dira.
+
+```{=typst}
+#v(1em)
+#grid(
+  columns: (1fr, 1fr),
+  gutter: 2cm,
+  align(center)[
+    #line(length: 70%, stroke: 1pt + rgb("#5FD790"))
+    #v(0.3em)
+    *Ikaslearen sinadura* \
+    #egilea
+  ],
+  align(center)[
+    #line(length: 70%, stroke: 1pt + rgb("#5FD790"))
+    #v(0.3em)
+    *Zuzendariaren sinadura* \
+    #zuzendaria
+  ]
+)
+#v(1em)
+```

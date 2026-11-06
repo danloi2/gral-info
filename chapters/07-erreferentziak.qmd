@@ -1,0 +1,100 @@
+# ERREFERENTZIAK {#sec-erreferentziak}
+
+::: {.callout-note}
+## Edukia: Erreferentziak
+
+Atal honetan Gradu Amaierako Lanean erabilitako eta testuan aipatutako informazio-iturri guztiak jasotzen dira. Erreferentzien helburua da ikerketaren oinarri teoriko eta metodologikoak identifikatzea, erabilitako iturrien jatorria aitortzea eta irakurleari dokumentu horiek aurkitzeko aukera ematea.
+
+Erreferentzia-zerrendan testuan aipatutako lan guztiak agertu behar dira, eta zerrendan jasotako lan guztiak testuan aipatu behar dira. Ez dira sartu behar kontsultatu baina lanean aipatu edo erabili ez diren iturriak.
+
+**Luzera orientagarria:** Ez da portzentaje jakinik ezartzen; erabilitako literatura zientifikoaren eta ikerketaren ezaugarrien arabera aldatzen da.
+
+**Aditz-denborak (APA 7):** Ez dagokio.
+
+**Aipu bibliografikoak:** Ez dagokio (atal hau bera erreferentzia bibliografikoen zerrenda da).
+:::
+
+::: {.callout-note}
+## Erreferentzien formatuaren ezaugarriak
+
+Erreferentzia-zerrendak APAren 7. edizioaren arauak bete behar ditu. Bereziki, honako alderdi hauek zaindu behar dira:
+
+- **APA 7 formatua:** erreferentzia bakoitza dagokion dokumentu motaren arauen arabera idaztea.
+- **Orden alfabetikoa:** erreferentziak lehen egilearen abizenaren arabera antolatzea.
+- **Frantses koska (*hanging indent*):** erreferentzia bakoitzaren lehen lerroa ezkerrean uztea eta gainerako lerroak koska batekin idaztea.
+- **DOI edo URLa:** identifikatzaile digitala edo esteka iraunkorra gehitzea, eskuragarri dagoenean eta APA 7 araudiaren arabera dagokionean.
+- **Iturrien kalitatea:** iturri zientifiko eta akademikoak lehenestea, bereziki berrikuspen akademikoa gainditu duten argitalpenak.
+- **Koherentzia:** egile, data, izenburu eta argitalpen-datuak testuko aipuekin bat datozela egiaztatzea.
+:::
+
+::: {.callout-note}
+## Gomendatutako datu-base akademikoak
+
+Marko teorikoa eta aurreko ikerketak eraikitzeko, honako datu-base eta bilatzaile akademiko hauek erabiltzea gomendatzen da:
+
+- **Web of Science (WoS):** nazioarteko literatura zientifikoa eta aldizkari akademikoetako argitalpenak bilatzeko.
+- **Scopus:** diziplina anitzeko literatura zientifikoa eta ikerketa-argitalpenak identifikatzeko.
+- **Dialnet:** bereziki gaztelaniazko literatura akademikoa eta gizarte-zientzietako argitalpenak aurkitzeko.
+- **ERIC:** hezkuntzaren arloko ikerketa eta dokumentazio espezializatua kontsultatzeko.
+- **SciELO:** Latinoamerikako eta beste eskualde batzuetako literatura zientifikoa eskuratzeko.
+- **Google Scholar:** literatura akademikoa bilatzeko laguntza osagarri gisa erabiltzeko.
+
+Bilaketetan komeni da hitz gako egokiak erabiltzea, bilaketa-terminoak konbinatzea eta aurkitutako iturrien kalitatea, egokitasuna eta gaurkotasuna ebaluatzea.
+:::
+
+::: {.callout-note}
+## APA 7ko erreferentzien adibideak
+
+Jarraian, erreferentzia mota ohikoenen adibideak aurkezten dira. Adibideak formatuaren eredutzat hartu behar dira, eta benetako lanetan erabilitako iturrien datu bibliografikoekin ordezkatu.
+
+**Aldizkari-artikulua**
+
+García, M., & López, J. (2022). Teacher professional development and inclusive education. *Journal of Educational Research, 45*(2), 123–138. https://doi.org/xxxxx
+
+**Liburua**
+
+Bisquerra, R. (2019). *Metodología de la investigación educativa* (6. arg.). La Muralla.
+
+**Liburu-kapitulua**
+
+Bolívar, A. (2020). La identidad profesional docente. In J. Gimeno Sacristán (Ed.), *La profesión docente en el siglo XXI* (45–67 or.). Morata.
+
+**Webgunea**
+
+UNESCO. (2023). *Artificial intelligence and education*. https://www.unesco.org
+:::
+
+::: {.callout-note}
+## Erreferentzien kalitateari buruzko ohar metodologikoa
+
+Gradu Amaierako Lanean, erreferentzien kalitatea literaturaren berrikuspenaren kalitatearekin lotuta dago. Horregatik, komeni da iturri eguneratuak, zientifikoak eta berrikuspen akademikoa gainditu dutenak lehenestea. Oro har, azken 5-10 urteetako literatura erabiltzea gomendatzen da, gaiaren klasikoak eta erreferentziazko lanak baztertu gabe.
+
+**Gutxieneko erreferentzia-kopuru orientagarria:**
+
+- **TFG teoriko edo bibliografikoa:** 30-50 erreferentzia.
+- **TFG enpiriko kuantitatiboa:** 25-40 erreferentzia.
+- **TFG enpiriko kualitatiboa edo kasu-azterketa:** 20-35 erreferentzia.
+
+Kopuru horiek orientagarriak dira, ez nahitaez bete beharreko arauak. Helburua ez da erreferentzia kopuru handia lortzea, baizik eta ikerketaren gaiarekin lotutako literatura esanguratsua, eguneratua eta kalitatezkoa erabiltzea.
+:::
+
+::: {.callout-note}
+## APA 7ri buruzko baliabide ofizialak
+
+Erreferentziak behar bezala idazteko, APA Style webguneko jarraibide ofizialak kontsultatzea gomendatzen da:
+
+- [References: oinarrizko jarraibideak](https://apastyle.apa.org/style-grammar-guidelines/references)
+- [Erreferentzia-zerrendak eta bibliografiak](https://apastyle.apa.org/style-grammar-guidelines/references/lists-vs-bibliographies)
+- [Erreferentzien oinarrizko printzipioak](https://apastyle.apa.org/style-grammar-guidelines/references/basic-principles)
+- [Datu-baseetako informazioa](https://apastyle.apa.org/style-grammar-guidelines/references/database-information)
+- [DOIak eta URLak](https://apastyle.apa.org/style-grammar-guidelines/references/dois-urls)
+- [Erreferentzia baten elementuak](https://apastyle.apa.org/style-grammar-guidelines/references/elements-list-entry)
+- [Informazio bibliografikoa falta denean](https://apastyle.apa.org/style-grammar-guidelines/references/missing-information)
+- [Erreferentzia moten adibideak](https://apastyle.apa.org/style-grammar-guidelines/references/examples)
+- [Meta-analisietan erreferentziak erabiltzea](https://apastyle.apa.org/style-grammar-guidelines/references/meta-analysis-references)
+- [ChatGPT nola aipatu](https://apastyle.apa.org/blog/how-to-cite-chatgpt)
+:::
+
+
+::: {#refs}
+:::

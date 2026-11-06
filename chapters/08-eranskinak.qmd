@@ -1,0 +1,199 @@
+# ERANSKINAK
+
+::: {.callout-note}
+## Edukia: Eranskinak
+
+Atal honetan ikerketaren garapena ulertzen, osatzen edo egiaztatzen laguntzen duten material osagarriak biltzen dira. Eranskinetan sartzen den informazioak ez du testu nagusiaren irakurketa oztopatu behar, baina ikerketaren gardentasuna, zorroztasuna eta erreplikagarritasuna bermatzeko erabilgarria izan behar du.
+
+Eranskinak ez dira informazio gehigarri huts gisa ulertu behar; ikerketan erabilitako dokumentu, tresna eta ebidentzien euskarri gisa balio dute.
+
+**Luzera orientagarria:** Aldakorra, ikerketaren ezaugarrien eta erantsitako dokumentazioaren arabera.
+
+**Aditz-denborak (APA 7):** Ez dagokio.
+
+**Aipu bibliografikoak:** Ez.
+:::
+
+::: {.callout-note}
+## Eranskinen antolaketa
+
+Eranskin bakoitzak zenbakia eta izenburu argia izan behar ditu, eta testu nagusian dagokion unean erreferentziatu behar da. Eranskinak agertzen diren ordena testuan aipatzen diren ordenarekin bat etortzea komeni da.
+
+**Adibidea:** Erabilitako elkarrizketa-gidoi osoa 3. Eranskinean kontsulta daiteke.
+
+Eranskin bakoitza orrialde berri batean hastea gomendatzen da, dokumentuaren egitura eta kontsulta errazteko.
+:::
+
+::: {.callout-note}
+## Eranskinetan sar daitekeen dokumentazioa
+
+Ikerketaren izaeraren eta erabilitako metodologiaren arabera, honako material hauek sar daitezke:
+
+- **Datuak biltzeko tresnak:** galdetegiak, elkarrizketa-gidoiak eta behaketa-fitxak.
+- **Parte-hartzaileen dokumentazioa:** informazio-orriak eta baimen informatuen ereduak.
+- **Datuen analisia:** analisi-matrizeak, kodeketa-sistemak eta kategoria-sistemak.
+- **Ikerketaren plangintza:** kronogramak eta faseen garapenari buruzko dokumentuak.
+- **Emaitzen euskarri osagarriak:** taula osagarriak, kalkuluak eta analisi gehigarriak.
+- **Dokumentazio grafikoa eta instituzionala:** irudiak, eskemak eta dokumentu instituzionalak.
+- **Datu kualitatiboak:** transkripzioen zati adierazgarriak edo analisia ulertzeko beharrezkoak diren adibideak.
+
+Materiala hautatzean, kontuan hartu behar da eranskin bakoitzak ekarpen argia egin behar diola ikerketaren ulermenari edo egiaztapenari.
+:::
+
+::: {.callout-note}
+## Gomendatutako egitura
+
+Ikerketaren ezaugarrien arabera, honako eranskin-egitura hau erabil daiteke:
+
+- **1. Eranskina. Baimenen dokumentua:** ikerketan parte hartzeko baimenak edo baimen informatuaren eredua.
+- **2. Eranskina. Adimen artifizialaren erabileraren adierazpena:** Gradu Amaierako Lana prestatzean erabilitako adimen artifizial sortzaileko tresnen, erabilera-helburuen eta erabilera-faseen deskribapena, egilearen erantzukizun akademikoa adierazita.
+- **3. Eranskina. Inplikazio etikoak aitortzeko adierazpena:** parte-hartzaileen eskubideei, konfidentzialtasunari eta datuen kudeaketari buruzko informazioa.
+- **4. Eranskina. Informazio-orria eta baimen informatua:** parte-hartzaileei emandako informazioa eta erabilitako baimen-ereduak.
+- **5. Eranskina. Datuak biltzeko tresnak:** galdetegiak, elkarrizketa-gidoiak, behaketa-fitxak edo bestelako tresnak.
+- **6. Eranskina. Analisi osagarria:** kodeketa-sistemak, kategoriak, analisi-matrizeak edo emaitzen euskarri diren dokumentuak.
+- **7. Eranskina. Kronograma:** ikerketaren faseen plangintza eta garapena jasotzen dituen taula edo diagrama.
+
+Zerrenda orientagarria da. Eranskinak ikerketaren benetako beharretara egokitu behar dira, eta beharrezkoak ez diren dokumentuak ez dira gehitu behar.
+:::
+
+::: {.callout-note}
+## Ohar metodologikoa
+
+Eranskinetan soilik ikerketaren ulermena edo egiaztapena errazten duen dokumentazioa sartu behar da. Material osagarriak antolatuta, izendatuta eta testu nagusitik erreferentziatuta egon behar dira. Eranskinak ez dira informazio garrantzitsua ezkutatzeko lekua; ikerketaren gardentasuna eta trazabilitatea indartzeko baliabidea dira.
+
+Parte-hartzaileen datu pertsonalak, sinadurak edo informazio konfidentziala dituzten dokumentuak gehitzean, datuen babesa eta anonimotasuna bermatu behar dira. Beharrezkoa denean, dokumentuak anonimizatu edo datu identifikatzaileak kendu behar dira, indarreko araudia eta erakundearen jarraibide etikoak errespetatuz.
+:::
+
+{{< pagebreak >}}
+
+
+## Eranskina 1. Baimen Dokumentua
+
+{{< pagebreak >}}
+
+
+## Eranskina 2. Adimen Artifizialaren Erabileraren Adierazpena {#sec-eranskina-aa}
+
+**Erabilitako tresna**
+
+- **Tresnaren izena:** 
+- **Bertsioa (ezagutzen bada):** 
+- **Erabilera-data(k):** 
+
+**Adimen artifizialaren erabileraren deskribapena**
+
+Gradu Amaierako Lan hau prestatzeko, adimen artifizial sortzaileko tresnak laguntza gisa erabili dira honako zeregin hauetan:
+
+**Informazioaren bilaketa eta antolaketa**
+
+- [ ] Informazio osagarria bilatzeko
+- [ ] Kontzeptuak argitzeko
+- [ ] Ideiak edo ikerketa-ildoak proposatzeko
+- [ ] Informazioa antolatzeko
+- [ ] Laburpenak egiteko
+- [ ] Bibliografia identifikatzen laguntzeko
+
+**Idazketa eta hizkuntza-laguntza**
+
+- [ ] Ortografia zuzentzeko
+- [ ] Gramatika zuzentzeko
+- [ ] Idazkera akademikoa hobetzeko
+- [ ] Testuaren argitasuna hobetzeko
+- [ ] Testuak berridazteko
+- [ ] Itzulpenak egiteko
+- [ ] Terminologia espezializatua egiaztatzeko
+
+**Analisia eta metodologia**
+
+- [ ] Ikerketa-diseinua prestatzen laguntzeko
+- [ ] Metodologia egituratzeko
+- [ ] Datuen analisia egiteko
+- [ ] Emaitzen interpretazioan laguntzeko
+- [ ] Taulak edo eskemak diseinatzeko
+- [ ] Programazio-kodea sortzeko
+- [ ] Programazio-kodea berrikusteko edo zuzentzeko
+
+**Beste erabilera batzuk**
+
+- [ ] Aurkezpenaren egitura proposatzeko
+- [ ] Ondorioak antolatzeko
+- [ ] Defentsa prestatzeko
+- [ ] Beste bat (zehaztu):
+
+**Erantzukizun-adierazpena**
+
+Adimen artifizialeko tresnak laguntza-tresna gisa baino ez dira erabili. Lan honetako edukiaren hautaketa, azterketa kritikoa, interpretazioa, eztabaida, ondorioak eta azken idazketa egilearen beraren erantzukizunpekoak izan dira. AA bidez sortutako edukirik ez da txertatu berrikuspen kritikorik gabe.
+
+**Oharrak (aukerakoa)**
+
+**Erreferentziak eta baliabideak**
+
+Dokumentu hau betetzeko eta Adimen Artifizialaren erabilera arduratsuari buruzko informazio osagarria eskuratzeko, EHUko Adimen Artifizialaren Ataria kontsulta daiteke:
+[https://www.ehu.eus/es/web/adimen-artifiziala/home](https://www.ehu.eus/es/web/adimen-artifiziala/home)
+
+Kontsulta-data: `____ / ____ / ______`
+
+{{< pagebreak >}}
+
+
+## Eranskina 3. Inplikazio etikoak aitortzeko adierazpena
+
+{{< pagebreak >}}
+
+
+## Eranskina 4. Informazio Orria eta Baimen Informatua {#sec-eranskina-baimena}
+
+Ikerketan parte hartu duten ikasleen familiei eta ikastetxeko zuzendaritzari helarazitako informazio-orriaren eta adostasun-agiriaren eredua:
+
+```{=typst}
+#rect(width: 100%, stroke: 0.5pt + rgb("#B1AB9F"), inset: 1em, radius: 3pt)[
+  #text(weight: "bold")[INFORMAZIO ORRIA ETA BAIMEN INFORMATUA (Eredua)] \ \
+  *Ikerketaren izenburua:* Irakasle-identitatearen eraikuntza eta metodologia berritzaileak Haur Hezkuntzan. \
+  *Ikertzailea:* #egilea \
+  *Zuzendaria:* #zuzendaria \
+  *Fakultatea:* Hezkuntza, Filosofia eta Antropologia Fakultatea (HEFA) - UPV/EHU \ \
+  Honen bidez, jakinarazten da garatuko diren jarduera guztiak ikasgelako ohiko dinamikaren barruan txertatuko direla eta helburu akademikoa soilik dutela. Parte-hartzea borondatezkoa da eta datuak modu anonimoan tratatuko dira.
+]
+```
+
+{{< pagebreak >}}
+
+
+## Eranskina 5. Datuak Biltzeko Tresnak {#sec-eranskina-tresnak}
+
+Datuak jasotzeko erabilitako tresnen txantiloiak eta gidoiak:
+
+1. **Ikasgelako behaketa-eskala:** Talde-elkarreragina, parte-hartzea eta autonomia neurtzeko adierazle-zerrenda.
+2. **Tutoreari egindako elkarrizketaren gidoia:** 8 galdera erdi-egituratu irakaslearen pertzepzioak eta metodologiaren balorazioa biltzeko.
+
+{{< pagebreak >}}
+
+
+## Eranskina 6. Analisi Osagarria {#sec-eranskina-analisia}
+
+Esku-hartzean jasotako ebidentzia kualitatiboen kodifikazio-matrizea eta kategoria nagusien arteko harreman-taulak:
+
+| Kategoria | Azpikategoria | Ebidentzia-kodea | Behaketa-maiztasuna |
+|:----------|:--------------|:-----------------|:--------------------|
+| Lankidetza | Berdinen arteko laguntza | LANK-01 | Alta |
+| Autonomia | Materialen kudeaketa | AUTO-03 | Ertaina-Alta |
+| Inklusioa | Rolen txandakatzea | INKL-02 | Alta |
+
+: Kodifikazio kualitatiboaren kategoria-sistema eta adibideak. {#tbl-eranskina-kodifikazioa}
+
+{{< pagebreak >}}
+
+
+## Eranskina 7. Kronograma {#sec-eranskina-kronograma}
+
+Ikerketaren zereginen eta lan-fluxuaren xehetasun kronologiko osoa:
+
+| Hilabetea | Jarduera nagusia | Egindako entrega / mugarria |
+|:----------|:-----------------|:----------------------------|
+| Urria | Testuinguraketaren analisia eta bibliografia-bilaketa | Hasierako proposamena |
+| Azaroa - Abendua | Marko teorikoaren erredakzioa eta tresnen diseinua | 1. Zirriborroa |
+| Urtarrila - Otsaila | Esku-hartze didaktikoa ikasgelan | Datu-bilketa |
+| Martxoa | Datuen analisia eta triangulazioa | Emaitzen lehen txostena |
+| Apirila - Maiatza | Memoriaren idazketa osoa eta berrikuspenak | Behin betiko GRAL entrega |
+
+: Ikerketaren kronograma orokorra eta mugarriak. {#tbl-kronograma-xehea}
