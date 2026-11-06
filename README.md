@@ -9,7 +9,7 @@
 
 > **Version:** `v1.1.0` (November 2026)  
 > **Author:** Daniel Losada — [ORCID 0000-0003-3842-7694](https://orcid.org/0000-0003-3842-7694) (HEFA, UPV/EHU)  
-> **License:** [MIT](LICENSE) for the template; EHU fonts, logos and the APA CSL keep their own terms  
+> **License:** [MIT](LICENSE) for the template; EHU fonts, logos and the APA CSL keep their own terms ([NOTICE](NOTICE.md))  
 > **Live example:** <https://danloi2.github.io/gral-info/> — web book with PDF and Word downloads
 
 Academic template for writing and typesetting **undergraduate theses (TFG / GRAL — *Gradu Amaierako Lana*)** at the **Faculty of Education, Philosophy and Anthropology (HEFA)** of the University of the Basque Country / Euskal Herriko Unibertsitatea (UPV/EHU).
@@ -341,7 +341,7 @@ The template (configuration, Typst/SCSS/Lua/Python sources, chapters and documen
 - **EHUSans / EHUSerif** fonts (`assets/fonts/`) and the **UPV/EHU and HEFA logos** (`assets/images/`): institutional assets, to be used under the UPV/EHU brand rules.
 - **APA 7 CSL style** (`bibliography/apa.csl`): CC BY-SA 3.0, from the Citation Style Language project.
 
-Theses written with the template belong to their authors.
+Theses written with the template belong to their authors. Details in [NOTICE.md](NOTICE.md).
 
 ---
 
