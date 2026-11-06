@@ -24,7 +24,7 @@ This repository provides an institutional, publication-grade academic template f
   1. *Laburpena* (Basque)
   2. *Resumen* (Spanish)
   3. *Abstract* (English)
-- **Technical Documentation & Rules:** Developer/agent instructions, git commits, skills, and handoff documents (`HANDOFF.md`, `AGENTS.md`, `SKILL.md`) are maintained in **English**.
+- **Technical Documentation & Rules:** Developer/agent instructions, git commits, skills, and handoff documents (`README.md`, `HANDOFF.md`, `AGENTS.md`, `SKILL.md`) and the GitHub repository description are maintained in **English**.
 - **Code & Configuration Comments:** Every comment in project files MUST be written in **English**: `_quarto.yml`, Typst files (`templates/typst/*.typ`, `templates/typst/partials/*.typ`), raw Typst blocks and HTML comments (`<!-- -->`) inside `.qmd` files, Lua filters, scripts and settings. This applies to new comments and to any existing comment you edit. Only the thesis content itself (text, captions, headings, callouts) stays in Basque.
 
 ---
