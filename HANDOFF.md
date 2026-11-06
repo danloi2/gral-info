@@ -55,7 +55,7 @@ Academic monograph template for Undergraduate Theses (TFG / GRAL) at HEFA, UPV/E
 ├── bibliography/                # references.bib + apa.csl
 ├── assets/images/  assets/fonts/
 ├── docs/reference/              # Official reference docs (HEFA guide, EHU brand manual, Word cover model)
-├── AGENTS.md  README.md  .agents/skills/handoff/SKILL.md
+├── AGENTS.md  README.md  .claude/skills/handoff/SKILL.md   # /handoff skill (.agents/skills/ links to it)
 └── build/                       # All outputs (generated)
 ```
 
