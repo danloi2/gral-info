@@ -24,7 +24,7 @@ When generating or updating `HANDOFF.md`, maintain the following sections in cle
 
 ### 2. Tech Stack & Environment Prerequisites
 - Core tools and required versions:
-  - Quarto (`quarto --version`, >= 1.4)
+  - Quarto (`quarto --version`, >= 1.9; Typst books)
   - Typst (integrated with Quarto or standalone)
   - Pandoc & Pandoc Citeproc
   - Browser/Chrome headless shell (required by Quarto for server-side Mermaid rendering to PDF/DOCX)
@@ -33,11 +33,13 @@ When generating or updating `HANDOFF.md`, maintain the following sections in cle
 ### 3. Architecture & Repository Map
 - Map and explanation of crucial directories and configuration files:
   - `_quarto.yml`: Central configuration file for global metadata, bibliography, and formats.
-  - `index.qmd`: Master document orchestrator.
+  - `index.qmd`: Book landing page; includes the front matter only.
   - `front-matter/`: Unnumbered preliminary sections (cover, acknowledgements, abstracts, table of contents), included from `index.qmd`.
   - `chapters/`: Numbered thesis chapters `01-*` through `08-*`, registered in `book.chapters`.
   - `templates/typst/`: Typst styling rules (`hefa-style.typ`), cover template (`hefa-cover.typ`) and `partials/` overriding Quarto's orange-book template.
-  - `assets/`: `images/` and `fonts/`. `docs/reference/`: official HEFA/EHU reference documents.
+  - `templates/html/`, `templates/docx/`, `templates/filters/`: HTML theme, Word reference document + filter, shared Lua filters.
+  - `.github/workflows/publish.yml`: GitHub Pages build and deploy.
+  - `assets/`: `images/` and `fonts/`. `docs/reference/`: official HEFA/EHU reference documents (local only, git-ignored).
   - `bibliography/`: BibTeX database (`references.bib`) and APA 7 citation style (`apa.csl`).
   - `build/`: Target directory for rendered artifacts.
 
