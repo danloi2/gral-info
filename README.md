@@ -130,7 +130,7 @@ metadata:
   tfg:
     titulua: &titulua "IRAKASLE-IDENTITATEAREN ERAIKUNTZA ETA METODOLOGIA BERRITZAILEAK LEHEN HEZKUNTZAN"
     azpititulua: &azpititulua "Hezkuntza proiektu berritzaile baten azterketa eta esku-hartze proposamena"
-    egilea: &egilea "Ane Garcia Goikoetxea"
+    egilea: &egilea "Izena Abizena1 Abizena2"
     nan: "12345678Z"
     gradua: "Lehen Hezkuntzako Gradua"
     zuzendaria: "Zuzendariaren Izena, dk."
